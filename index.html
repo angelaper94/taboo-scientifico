@@ -74,7 +74,33 @@ body {
 .card-content { display:none; width:100%; animation:fadeIn .25s ease; }
 .card-content.visible { display:block; }
 .label { color:#1d4ed8; font-weight:900; letter-spacing:.18em; font-size:18px; }
-.word { font-size:clamp(52px,8vw,108px); font-weight:1000; line-height:.96; margin:16px 0 24px; text-transform:uppercase; }
+.word {
+    font-size: clamp(28px, 6vw, 52px);
+    font-weight: bold;
+    margin-bottom: 25px;
+    color: #dc2626;
+    text-transform: uppercase;
+
+    overflow-wrap: break-word;
+    word-break: break-word;
+    hyphens: auto;
+
+    line-height: 1.1;
+}
+
+.taboo {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+
+    font-size: clamp(18px, 4.5vw, 30px);
+    font-weight: bold;
+
+    line-height: 1.35;
+
+    overflow-wrap: break-word;
+    word-break: break-word;
+}
 .taboo-title { color:#7f1d1d; font-weight:1000; font-size:22px; margin-bottom:10px; letter-spacing:.12em; }
 .taboo-list { display:grid; grid-template-columns:1fr; gap:10px; max-width:520px; margin:0 auto; }
 .taboo-item { font-size:32px; font-weight:900; color:#7f1d1d; border-top:2px dashed rgba(127,29,29,.25); padding-top:8px; }
@@ -89,9 +115,33 @@ button:disabled { opacity:.45; cursor:not-allowed; filter:none; }
 .settings input { width:100%; border-radius:10px; border:0; padding:10px; font-weight:800; }
 .log { max-height:190px; overflow:auto; text-align:left; font-size:13px; line-height:1.35; }
 @keyframes fadeIn { from { opacity:0; transform:scale(.96); } to { opacity:1; transform:scale(1); } }
-@media (max-width:900px) {
-  .top { display:block; } .team,.center,.controls { margin-bottom:12px; }
-  .card-wrap { display:block; } .card { min-height:420px; } .controls { margin-top:14px; }
+@media (max-width: 600px) {
+
+    .card {
+        padding: 20px;
+        min-height: 300px;
+    }
+
+    .timer {
+        font-size: 56px;
+    }
+
+    .scoreboard {
+        font-size: 20px;
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    button {
+        width: 90%;
+        font-size: 18px;
+    }
+
+    .controls {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }
 @media print { body { background:white; color:black; } .controls,.settings { display:none; } }
 </style>
