@@ -1,0 +1,6866 @@
+[
+  {
+    "id": "p002_r1_c1",
+    "word": "SOLE",
+    "taboo": [
+      "CALORE",
+      "TERRA",
+      "PIANETI",
+      "STELLA",
+      "LUCE"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": "p002_r1_c2",
+    "word": "ASTEROIDE",
+    "taboo": [
+      "TERRA",
+      "ORBITA",
+      "ROCCIA",
+      "SOLE",
+      "IMPATTO"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": "p002_r1_c3",
+    "word": "SISTEMA SOLARE",
+    "taboo": [
+      "PIANETI",
+      "ORBITA",
+      "SOLE",
+      "COMETE",
+      "TERRA"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": "p002_r2_c1",
+    "word": "PIANETA",
+    "taboo": [
+      "TERRA",
+      "GIOVE",
+      "MERCURIO",
+      "VENERE",
+      "SATURNO"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": "p002_r2_c2",
+    "word": "ORBITA",
+    "taboo": [
+      "GIRARE",
+      "SOLE",
+      "PIANETA",
+      "ELLISSE",
+      "RUOTARE"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": "p002_r2_c3",
+    "word": "ROTAZIONE",
+    "taboo": [
+      "ASSE",
+      "GIORNO",
+      "TERRA",
+      "INCLINAZIONE",
+      "ANTIORARIO"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": "p002_r3_c1",
+    "word": "RIVOLUZIONE",
+    "taboo": [
+      "TERRA",
+      "SOLE",
+      "ANNO",
+      "ORBITA",
+      "MOTO"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": "p002_r3_c2",
+    "word": "TERRA",
+    "taboo": [
+      "PIANETA",
+      "SOLE",
+      "ACQUA",
+      "GLOBO",
+      "GEOIDE"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": "p002_r3_c3",
+    "word": "LUNA",
+    "taboo": [
+      "TERRA",
+      "SATELLITE",
+      "MAREA",
+      "NOTTE",
+      "ECLISSI"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": "p002_r4_c1",
+    "word": "STAGIONE",
+    "taboo": [
+      "INVERNO",
+      "PRIMAVERA",
+      "ESTATE",
+      "AUTUNNO",
+      "QUATTRO"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": "p002_r4_c2",
+    "word": "COMETA",
+    "taboo": [
+      "GHIACCIO",
+      "CODA",
+      "SOLE",
+      "HALLEY",
+      "SCIA"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": "p002_r4_c3",
+    "word": "METEORITE",
+    "taboo": [
+      "SPAZIO",
+      "ROCCIA",
+      "TERRA",
+      "IMPATTO",
+      "DINOSAURI"
+    ],
+    "sourcePage": 2
+  },
+  {
+    "id": "p004_r1_c1",
+    "word": "MERCURIO",
+    "taboo": [
+      "PIANETA",
+      "SOLE",
+      "PRIMO",
+      "PICCOLO",
+      "TERRA"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "p004_r1_c2",
+    "word": "VENERE",
+    "taboo": [
+      "PIANETA",
+      "SOLE",
+      "SECONDO",
+      "TERRA",
+      "GIALLO"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "p004_r1_c3",
+    "word": "MARTE",
+    "taboo": [
+      "PIANETA",
+      "SOLE",
+      "QUARTO",
+      "TERRA",
+      "ROSSO"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "p004_r2_c1",
+    "word": "GIOVE",
+    "taboo": [
+      "PIANETA",
+      "SOLE",
+      "QUINTO",
+      "GRANDE",
+      "GASSOSO"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "p004_r2_c2",
+    "word": "SATURNO",
+    "taboo": [
+      "PIANETA",
+      "SOLE",
+      "SESTO",
+      "ANELLI",
+      "GASSOSO"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "p004_r2_c3",
+    "word": "URANO",
+    "taboo": [
+      "PIANETA",
+      "SOLE",
+      "SETTIMO",
+      "METANO",
+      "BLU"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "p004_r3_c1",
+    "word": "NETTUNO",
+    "taboo": [
+      "PIANETA",
+      "SOLE",
+      "OTTAVO",
+      "ULTIMO",
+      "BLU"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "p004_r3_c2",
+    "word": "UNIVERSO",
+    "taboo": [
+      "SPAZIO",
+      "PIANETI",
+      "STELLE",
+      "INFINITO",
+      "BUIO"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "p004_r3_c3",
+    "word": "BIG BANG",
+    "taboo": [
+      "INIZIO",
+      "UNIVERSO",
+      "MILIARDI",
+      "ESPLOSIONE",
+      "MATERIA"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "p004_r4_c1",
+    "word": "VIA LATTEA",
+    "taboo": [
+      "GALASSIA",
+      "SISTEMA SOLARE",
+      "SPIRALE",
+      "STELLE",
+      "PIANETI"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "p004_r4_c2",
+    "word": "ANNO LUCE",
+    "taboo": [
+      "VELOCITÀ",
+      "CHILOMETRI",
+      "SPAZIO",
+      "TEMPO",
+      "SECONDO"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "p004_r4_c3",
+    "word": "UNITÀ ASTRONOMICA",
+    "taboo": [
+      "MISURA",
+      "MILIONI",
+      "CHILOMETRI",
+      "SOLE",
+      "TERRA"
+    ],
+    "sourcePage": 4
+  },
+  {
+    "id": "p006_r1_c1",
+    "word": "TELESCOPIO",
+    "taboo": [
+      "HUBBLE",
+      "OSSERVAZIONE",
+      "DISTANZA",
+      "SPAZIO",
+      "STELLE"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "p006_r1_c2",
+    "word": "LUCE",
+    "taboo": [
+      "SOLE",
+      "RAGGI",
+      "ONDA",
+      "VELOCITÀ",
+      "CALORE"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "p006_r1_c3",
+    "word": "HUBBLE",
+    "taboo": [
+      "TELESCOPIO",
+      "SPAZIO",
+      "LEGGE",
+      "GALASSIE",
+      "ALLONTANARSI"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "p006_r2_c1",
+    "word": "MAGNITUDINE",
+    "taboo": [
+      "MISURA",
+      "LUMINOSITÀ",
+      "APPARENTE",
+      "ASSOLUTA",
+      "STELLA"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "p006_r2_c2",
+    "word": "GRAVITÀ",
+    "taboo": [
+      "NEWTON",
+      "TERRA",
+      "CADERE",
+      "FORZA",
+      "ACCELERAZIONE"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "p006_r2_c3",
+    "word": "FUSIONE",
+    "taboo": [
+      "SOLE",
+      "CALORE",
+      "ATOMI",
+      "ENERGIA",
+      "NUCLEARE"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "p006_r3_c1",
+    "word": "NEBULOSA",
+    "taboo": [
+      "POLVERE",
+      "GAS",
+      "SPAZIO",
+      "PRIMORDIALE",
+      "MATERIA"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "p006_r3_c2",
+    "word": "GIGANTE ROSSA",
+    "taboo": [
+      "SOLE",
+      "MORTE",
+      "ESPANSIONE",
+      "GRAVITÀ",
+      "STELLA"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "p006_r3_c3",
+    "word": "SUPERNOVA",
+    "taboo": [
+      "STELLA",
+      "ESPLOSIONE",
+      "MORTE",
+      "ENERGIA",
+      "SOLE"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "p006_r4_c1",
+    "word": "BUCO NERO",
+    "taboo": [
+      "SOLE",
+      "MORTE",
+      "STELLA",
+      "GRAVITÀ",
+      "DENSITÀ"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "p006_r4_c2",
+    "word": "IDROGENO",
+    "taboo": [
+      "ELIO",
+      "SOLE",
+      "ELEMENTO",
+      "STELLA",
+      "FUSIONE"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "p006_r4_c3",
+    "word": "STELLA",
+    "taboo": [
+      "SOLE",
+      "LUCE",
+      "IDROGENO",
+      "GALASSIA",
+      "GAS"
+    ],
+    "sourcePage": 6
+  },
+  {
+    "id": "p008_r1_c1",
+    "word": "CROSTA",
+    "taboo": [
+      "TERRA",
+      "CONTINENTALE",
+      "OCEANICA",
+      "STRATO",
+      "SUPERFICIE"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "p008_r1_c2",
+    "word": "MANTELLO",
+    "taboo": [
+      "TERRA",
+      "SILICATI",
+      "STRATO",
+      "ASTENOSFERA",
+      "LITOSFERA"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "p008_r1_c3",
+    "word": "ASTENOSFERA",
+    "taboo": [
+      "MANTELLO",
+      "CROSTA",
+      "TERRA",
+      "INTERNO",
+      "FLUIDO"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "p008_r2_c1",
+    "word": "LITOSFERA",
+    "taboo": [
+      "CROSTA",
+      "MANTELLO",
+      "TERRA",
+      "ROCCE",
+      "SPESSORE"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "p008_r2_c2",
+    "word": "NUCLEO",
+    "taboo": [
+      "TERRA",
+      "INTERNO",
+      "ESTERNO",
+      "LIQUIDO",
+      "SOLIDO"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "p008_r2_c3",
+    "word": "MINERALE",
+    "taboo": [
+      "ROCCIA",
+      "CRISTALLO",
+      "SOLIDO",
+      "RETICOLO",
+      "NATURALE"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "p008_r3_c1",
+    "word": "DUREZZA",
+    "taboo": [
+      "MOHS",
+      "RESISTENZA",
+      "SCALFITTURA",
+      "DIAMANTE",
+      "TALCO"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "p008_r3_c2",
+    "word": "RETICOLO",
+    "taboo": [
+      "CRISTALLINO",
+      "MINERALE",
+      "ELEMENTARE",
+      "CELLA",
+      "GEOMETRICO"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "p008_r3_c3",
+    "word": "CRISTALLO",
+    "taboo": [
+      "SOLIDO",
+      "RETICOLO",
+      "MINERALE",
+      "GEOMETRICO",
+      "FORMA"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "p008_r4_c1",
+    "word": "SILICATI",
+    "taboo": [
+      "SILICIO",
+      "TETRAEDRO",
+      "QUARZO",
+      "OSSIGENO",
+      "CROSTA"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "p008_r4_c2",
+    "word": "ROCCIA",
+    "taboo": [
+      "MINERALI",
+      "CROSTA",
+      "SEDIMENTARIA",
+      "METAMORFICA",
+      "MAGMATICA"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "p008_r4_c3",
+    "word": "MAGMA",
+    "taboo": [
+      "FLUIDO",
+      "VULCANO",
+      "CALORE",
+      "MANTELLO",
+      "CROSTA"
+    ],
+    "sourcePage": 8
+  },
+  {
+    "id": "p010_r1_c1",
+    "word": "ROCCIA MAGMATICA",
+    "taboo": [
+      "INTRUSIVA",
+      "EFFUSIVA",
+      "BASALTO",
+      "SOLIDIFICAZIONE",
+      "GRANITO"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "p010_r1_c2",
+    "word": "ROCCIA SEDIMENTARIA",
+    "taboo": [
+      "ESOGENO",
+      "EROSIONE",
+      "TRASPORTO",
+      "CLASTI",
+      "CALCARE"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "p010_r1_c3",
+    "word": "ROCCIA METAMORFICA",
+    "taboo": [
+      "TEMPERATURA",
+      "PRESSIONE",
+      "GNEISS",
+      "MARMO",
+      "TRASFORMAZIONE"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "p010_r2_c1",
+    "word": "FONDALE",
+    "taboo": [
+      "OCEANICO",
+      "PROFONDITÀ",
+      "DORSALE",
+      "FOSSA",
+      "CROSTA"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "p010_r2_c2",
+    "word": "DORSALE OCEANICA",
+    "taboo": [
+      "MONTAGNA",
+      "PROFONDITÀ",
+      "SOLLEVAMENTO",
+      "CROSTA",
+      "MAGMA"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "p010_r2_c3",
+    "word": "FAGLIA",
+    "taboo": [
+      "DEFORMAZIONE",
+      "ROTTURA",
+      "ROCCIA",
+      "TERREMOTO",
+      "SCORRIMENTO"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "p010_r3_c1",
+    "word": "FOSSILI",
+    "taboo": [
+      "ROCCIA",
+      "IMPRONTE",
+      "ERA GEOLOGICA",
+      "ORGANISMO",
+      "RESTI"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "p010_r3_c2",
+    "word": "VULCANO",
+    "taboo": [
+      "TERRA",
+      "LAVA",
+      "CENERE",
+      "ERUZIONE",
+      "POLVERE"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "p010_r3_c3",
+    "word": "LAVA",
+    "taboo": [
+      "ERUZIONE",
+      "MAGMA",
+      "FLUIDO",
+      "SCORRERE",
+      "COLATA"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "p010_r4_c1",
+    "word": "ERUZIONE",
+    "taboo": [
+      "VULCANO",
+      "MAGMA",
+      "LAVA",
+      "ESPLOSIONE",
+      "CROSTA"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "p010_r4_c2",
+    "word": "VISCOSITÀ",
+    "taboo": [
+      "SCORRIMENTO",
+      "SILICE",
+      "MAGMA",
+      "GAS",
+      "MAGMA"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "p010_r4_c3",
+    "word": "PIROCLASTI",
+    "taboo": [
+      "VULCANO",
+      "FRAMMENTAZIONE",
+      "CENERE",
+      "LAPILLI",
+      "BOMBE"
+    ],
+    "sourcePage": 10
+  },
+  {
+    "id": "p012_r1_c1",
+    "word": "ONDA SISMICA",
+    "taboo": [
+      "PRIMARIE",
+      "SECONDARIE",
+      "TERREMOTO",
+      "LOVE",
+      "RAYLEIGH"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": "p012_r1_c2",
+    "word": "IPOCENTRO",
+    "taboo": [
+      "TERREMOTO",
+      "EPICENTRO",
+      "ONDA SISMICA",
+      "PROFONDITÀ",
+      "PUNTO"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": "p012_r1_c3",
+    "word": "EPICENTRO",
+    "taboo": [
+      "TERREMOTO",
+      "IPOCENTRO",
+      "ONDA SISMICA",
+      "SUPERFICIE",
+      "PUNTO"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": "p012_r2_c1",
+    "word": "TERREMOTO",
+    "taboo": [
+      "SCOSSA",
+      "EPICENTRO",
+      "IPOCENTRO",
+      "VIBRAZIONE",
+      "ONDE SISMICHE"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": "p012_r2_c2",
+    "word": "SCOSSA",
+    "taboo": [
+      "TERREMOTO",
+      "ASSESTAMENTO",
+      "VIBRAZIONE",
+      "SISMA",
+      "ENERGIA"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": "p012_r2_c3",
+    "word": "TSUNAMI",
+    "taboo": [
+      "MAREMOTO",
+      "TERREMOTO",
+      "OCEANO",
+      "ONDA",
+      "FONDALE"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": "p012_r3_c1",
+    "word": "SISMOGRAFO",
+    "taboo": [
+      "TERREMOTO",
+      "MISURAZIONE",
+      "STRUMENTO",
+      "ONDE SISMICHE",
+      "MAGNITUDO"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": "p012_r3_c2",
+    "word": "MAGNITUDO",
+    "taboo": [
+      "ENERGIA",
+      "MISURA",
+      "TERREMOTO",
+      "SCALA RICHTER",
+      "FORZA"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": "p012_r3_c3",
+    "word": "ISOSTASIA",
+    "taboo": [
+      "EQUILIBRIO",
+      "GRAVITÀ",
+      "ROCCIA",
+      "GALLEGGIARE",
+      "MOVIMENTO"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": "p012_r4_c1",
+    "word": "PANGEA",
+    "taboo": [
+      "DERIVA",
+      "CONTINENTI",
+      "WEGENER",
+      "PANTHALASSA",
+      "CONTINENTE"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": "p012_r4_c2",
+    "word": "ALFRED WEGENER",
+    "taboo": [
+      "TEORIA",
+      "DERIVA",
+      "CONTINENTI",
+      "MOVIMENTO",
+      "PLACCHE"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": "p012_r4_c3",
+    "word": "LAURASIA",
+    "taboo": [
+      "GONDWANA",
+      "PANGEA",
+      "DERIVA",
+      "CONTINENTI",
+      "TETIDE"
+    ],
+    "sourcePage": 12
+  },
+  {
+    "id": "p014_r1_c1",
+    "word": "SUBDUZIONE",
+    "taboo": [
+      "SPROFONDARE",
+      "CROSTA",
+      "PLACCHE",
+      "FOSSA OCEANICA",
+      "MANTELLO"
+    ],
+    "sourcePage": 14
+  },
+  {
+    "id": "p014_r1_c2",
+    "word": "TETTONICA A PLACCHE",
+    "taboo": [
+      "TEORIA",
+      "MOVIMENTO",
+      "ZOLLE",
+      "LITOSFERA",
+      "MARGINI"
+    ],
+    "sourcePage": 14
+  },
+  {
+    "id": "p014_r1_c3",
+    "word": "HOT SPOT",
+    "taboo": [
+      "PENNACCHIO",
+      "PUNTO",
+      "CALDO",
+      "VULCANO",
+      "HAWAII"
+    ],
+    "sourcePage": 14
+  },
+  {
+    "id": "p014_r2_c1",
+    "word": "GEOLOGIA",
+    "taboo": [
+      "DISCIPLINA",
+      "SCIENZA",
+      "ROCCE",
+      "MINIERALE",
+      "MATERIA"
+    ],
+    "sourcePage": 14
+  },
+  {
+    "id": "p014_r2_c2",
+    "word": "EONE",
+    "taboo": [
+      "TEMPO",
+      "PRECAMBRIANO",
+      "FANEROZOICO",
+      "SCALA",
+      "TERRA"
+    ],
+    "sourcePage": 14
+  },
+  {
+    "id": "p014_r2_c3",
+    "word": "ERA",
+    "taboo": [
+      "TEMPO",
+      "SCALA",
+      "PALEOZOICO",
+      "CENOZOICO",
+      "MESOZOICO"
+    ],
+    "sourcePage": 14
+  },
+  {
+    "id": "p014_r3_c1",
+    "word": "PALEONTOLOGIA",
+    "taboo": [
+      "FOSSILI",
+      "SCIENZA",
+      "DISCIPLINA",
+      "RESTI",
+      "ANTICHITÀ"
+    ],
+    "sourcePage": 14
+  },
+  {
+    "id": "p016_r3_c2",
+    "word": "IDROSFERA",
+    "taboo": [
+      "TERRA",
+      "ACQUA DOLCE",
+      "ACQUA SALATA",
+      "OCEANO",
+      "MARE"
+    ],
+    "sourcePage": 16
+  },
+  {
+    "id": "p016_r3_c3",
+    "word": "ACQUA DOLCE",
+    "taboo": [
+      "LAGO",
+      "FIUME",
+      "SALE",
+      "GHIACCIAIO",
+      "CONTINENTE"
+    ],
+    "sourcePage": 16
+  },
+  {
+    "id": "p016_r4_c1",
+    "word": "ACQUA SALATA",
+    "taboo": [
+      "MARE",
+      "OCEANO",
+      "DENSITÀ",
+      "SALE",
+      "CLORURO DI SODIO"
+    ],
+    "sourcePage": 16
+  },
+  {
+    "id": "p016_r4_c2",
+    "word": "ACQUA",
+    "taboo": [
+      "CICLO",
+      "DOLCE",
+      "SALATA",
+      "H 2 O",
+      "IDROSFERA"
+    ],
+    "sourcePage": 16
+  },
+  {
+    "id": "p016_r4_c3",
+    "word": "EVAPORAZIONE",
+    "taboo": [
+      "ACQUA",
+      "CALORE",
+      "VAPORE ACQUEO",
+      "GAS",
+      "EBOLLIZIONE"
+    ],
+    "sourcePage": 16
+  },
+  {
+    "id": "p018_r1_c1",
+    "word": "TRASPIRAZIONE",
+    "taboo": [
+      "FOGLIE",
+      "EVAPORAZIONE",
+      "PIANTE",
+      "STOMI",
+      "VAPORE ACQUEO"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": "p018_r1_c2",
+    "word": "PRECIPITAZIONI",
+    "taboo": [
+      "PIOGGIA",
+      "NEVE",
+      "CONDENSAZIONE",
+      "NUVOLE",
+      "EVAPORAZIONE"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": "p018_r1_c3",
+    "word": "CORRENTE MARINA",
+    "taboo": [
+      "MOVIMENTO",
+      "ACQUA",
+      "SUPERFICIALE",
+      "PROFONDA",
+      "CIRCOLAZIONE"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": "p018_r2_c1",
+    "word": "ONDA",
+    "taboo": [
+      "VENTO",
+      "OSCILLAZIONE",
+      "FRANGENTE",
+      "TRASLAZIONE",
+      "ACQUA"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": "p018_r2_c2",
+    "word": "LUNGHEZZA D’ONDA",
+    "taboo": [
+      "CRESTA",
+      "VENTRE",
+      "LUCE",
+      "ACQUA",
+      "DISTANZA"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": "p018_r2_c3",
+    "word": "SPIAGGIA",
+    "taboo": [
+      "SABBIA",
+      "ONDE",
+      "SEDIMENTO",
+      "EROSIONE",
+      "COSTA"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": "p018_r3_c1",
+    "word": "EUTROFIZZAZIONE",
+    "taboo": [
+      "ACQUA",
+      "FERTILIZZANTE",
+      "NUTRIENTI",
+      "LAGO",
+      "ALGHE"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": "p018_r3_c2",
+    "word": "OCEANO",
+    "taboo": [
+      "ACQUA",
+      "PACIFICO",
+      "ATLANTICO",
+      "INDIANO",
+      "MARE"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": "p018_r3_c3",
+    "word": "MARE",
+    "taboo": [
+      "ACQUA",
+      "MEDITERRANEO",
+      "ADRIATICO",
+      "TIRRENO",
+      "IONIO"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": "p018_r4_c1",
+    "word": "MAREA",
+    "taboo": [
+      "PERIODICO",
+      "ALTA",
+      "BASSA",
+      "LIVELLO DEL MARE",
+      "LUNA"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": "p018_r4_c2",
+    "word": "FALDA",
+    "taboo": [
+      "ACQUA",
+      "FREATICA",
+      "SOTTERRANEA",
+      "POZZO",
+      "ARTESIANA"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": "p018_r4_c3",
+    "word": "POROSITÀ",
+    "taboo": [
+      "ACQUA",
+      "BUCO",
+      "SPAZIO",
+      "ASSORBIMENTO",
+      "SEDIMENTO"
+    ],
+    "sourcePage": 18
+  },
+  {
+    "id": "p020_r1_c1",
+    "word": "PERMEABILITÀ",
+    "taboo": [
+      "ACQUA",
+      "ASSORBIMENTO",
+      "SCORRIMENTO",
+      "SEDIMENTO",
+      "FALDA"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": "p020_r1_c2",
+    "word": "SUBSIDENZA",
+    "taboo": [
+      "SPROFONDARE",
+      "TERRENO",
+      "ABBASSAMENTO",
+      "FONDALE",
+      "CEDIMENTO"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": "p020_r1_c3",
+    "word": "OASI",
+    "taboo": [
+      "DESERTO",
+      "ACQUA",
+      "SORGENTE",
+      "CALDO",
+      "FALDA"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": "p020_r2_c1",
+    "word": "SORGENTE",
+    "taboo": [
+      "SUPERFICIE",
+      "AFFIORAMENTO",
+      "ACQUA",
+      "TERMALE",
+      "MONTAGNA"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": "p020_r2_c2",
+    "word": "ALVEO",
+    "taboo": [
+      "LETTO",
+      "FIUME",
+      "ACQUA",
+      "SCORRIMENTO",
+      "LARGHEZZA"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": "p020_r2_c3",
+    "word": "FIUME",
+    "taboo": [
+      "LETTO",
+      "ACQUA",
+      "PORTATA",
+      "BACINO",
+      "FOCE"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": "p020_r3_c1",
+    "word": "FOCE",
+    "taboo": [
+      "FIUME",
+      "DELTA",
+      "ESTUARIO",
+      "MARE",
+      "SFOCIARE"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": "p020_r3_c2",
+    "word": "LAGO",
+    "taboo": [
+      "ACQUA DOLCE",
+      "IMMISSARIO",
+      "EMISSARIO",
+      "GLACIALE",
+      "CARSICO"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": "p020_r3_c3",
+    "word": "PALUDE",
+    "taboo": [
+      "ACQUA",
+      "STAGNO",
+      "UMIDITÀ",
+      "VEGETAZIONE",
+      "SALMASTRA"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": "p020_r4_c1",
+    "word": "GHIACCIAIO",
+    "taboo": [
+      "NEVE",
+      "MONTAGNA",
+      "POLI",
+      "SCIOGLIMENTO",
+      "CALOTTA"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": "p020_r4_c2",
+    "word": "ICEBERG",
+    "taboo": [
+      "GHIACCIO",
+      "ACQUA",
+      "POLI",
+      "TITANIC",
+      "GALLEGGIARE"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": "p020_r4_c3",
+    "word": "MORENA",
+    "taboo": [
+      "DEPOSITO",
+      "GHIACCIAIO",
+      "ROCCE",
+      "DETRITI",
+      "MOVIMENTO"
+    ],
+    "sourcePage": 20
+  },
+  {
+    "id": "p022_r1_c1",
+    "word": "ATMOSFERA",
+    "taboo": [
+      "ARIA",
+      "GAS",
+      "OSSIGENO",
+      "STRATI",
+      "METEO"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": "p022_r1_c2",
+    "word": "AZOTO",
+    "taboo": [
+      "ARIA",
+      "LIQUIDO",
+      "GAS",
+      "OSSIDO",
+      "ELEMENTO"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": "p022_r1_c3",
+    "word": "OSSIGENO",
+    "taboo": [
+      "ARIA",
+      "GAS",
+      "RESPIRARE",
+      "AEROBICO",
+      "ELEMENTO"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": "p022_r2_c1",
+    "word": "OZONO",
+    "taboo": [
+      "STRATO",
+      "BUCO",
+      "ATMOSFERA",
+      "O 3",
+      "INQUINAMENTO"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": "p022_r2_c2",
+    "word": "TROPOSFERA",
+    "taboo": [
+      "ATMOSFERA",
+      "STRATO",
+      "METEO",
+      "NUVOLE",
+      "PRECIPITAZIONI"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": "p022_r2_c3",
+    "word": "METEO",
+    "taboo": [
+      "PREVISIONI",
+      "ATMOSFERA",
+      "TEMPERATURA",
+      "PRECIPITAZIONI",
+      "PIOGGIA"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": "p022_r3_c1",
+    "word": "RADIAZIONE",
+    "taboo": [
+      "ULTRAVIOLETTI",
+      "SOLE",
+      "LUCE",
+      "CALORE",
+      "INFRAROSSI"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": "p022_r3_c2",
+    "word": "EFFETTO SERRA",
+    "taboo": [
+      "INQUINAMENTO",
+      "GAS",
+      "ANIDRIDE CARBONICA",
+      "METANO",
+      "RISCALDAMENTO"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": "p022_r3_c3",
+    "word": "ALTITUDINE",
+    "taboo": [
+      "MONTAGNA",
+      "FREDDO",
+      "NEVE",
+      "TEMPERATURA",
+      "PRESSIONE"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": "p022_r4_c1",
+    "word": "LATITUDINE",
+    "taboo": [
+      "COORDINATE",
+      "LONGITUDINE",
+      "PUNTO",
+      "SUPERFICIE",
+      "TERRA"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": "p022_r4_c2",
+    "word": "LONGITUDINE",
+    "taboo": [
+      "COORDINATE",
+      "LATITUDINE",
+      "PUNTO",
+      "SUPERFICIE",
+      "TERRA"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": "p022_r4_c3",
+    "word": "TEMPERATURA",
+    "taboo": [
+      "TERMOMETRO",
+      "CELSIUS",
+      "KELVIN",
+      "FAHRENHEIT",
+      "CALORE"
+    ],
+    "sourcePage": 22
+  },
+  {
+    "id": "p024_r1_c1",
+    "word": "UMIDITÀ",
+    "taboo": [
+      "ACQUA",
+      "VAPORE ACQUEO",
+      "CALDO",
+      "CLIMA",
+      "ARIA"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": "p024_r1_c2",
+    "word": "PRESSIONE",
+    "taboo": [
+      "PASCAL",
+      "ATMOSFERA",
+      "BAR",
+      "MERCURIO",
+      "VOLUME"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": "p024_r1_c3",
+    "word": "BAROMETRO",
+    "taboo": [
+      "STRUMENTO",
+      "MISURARE",
+      "PRESSIONE",
+      "ATMOSFERICA",
+      "TORRICELLI"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": "p024_r2_c1",
+    "word": "TERMOMETRO",
+    "taboo": [
+      "STRUMENTO",
+      "MISURARE",
+      "MERCURIO",
+      "TEMPERATURA",
+      "CALORE"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": "p024_r2_c2",
+    "word": "CICLONE",
+    "taboo": [
+      "PRESSIONE",
+      "BASSA",
+      "PIOGGIA",
+      "VENTO",
+      "METEO"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": "p024_r2_c3",
+    "word": "ANTICICLONE",
+    "taboo": [
+      "PRESSIONE",
+      "ALTA",
+      "SOLE",
+      "ARIA",
+      "METEO"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": "p024_r3_c1",
+    "word": "IGROMETRO",
+    "taboo": [
+      "STRUMENTO",
+      "MISURARE",
+      "UMIDITÀ",
+      "ARIA",
+      "VAPORE ACQUEO"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": "p024_r3_c2",
+    "word": "VAPORE ACQUEO",
+    "taboo": [
+      "ACQUA",
+      "ARIA",
+      "PIOGGIA",
+      "UMIDITÀ",
+      "EVAPORAZIONE"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": "p024_r3_c3",
+    "word": "ALISEO",
+    "taboo": [
+      "VENTO",
+      "TROPICI",
+      "COSTANTE",
+      "ATMOSFERA",
+      "SOFFIARE"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": "p024_r4_c1",
+    "word": "CONDENSAZIONE",
+    "taboo": [
+      "STATO",
+      "PASSAGGIO",
+      "LIQUIDO",
+      "GASSOSO",
+      "MATERIA"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": "p024_r4_c2",
+    "word": "BRINAMENTO",
+    "taboo": [
+      "STATO",
+      "PASSAGGIO",
+      "LIQUIDO",
+      "SOLIDO",
+      "MATERIA"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": "p024_r4_c3",
+    "word": "SUBLIMAZIONE",
+    "taboo": [
+      "STATO",
+      "PASSAGGIO",
+      "GASSOSO",
+      "SOLIDO",
+      "MATERIA"
+    ],
+    "sourcePage": 24
+  },
+  {
+    "id": "p026_r1_c1",
+    "word": "SOLIDIFICAZIONE",
+    "taboo": [
+      "STATO",
+      "PASSAGGIO",
+      "LIQUIDO",
+      "SOLIDO",
+      "MATERIA"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": "p026_r1_c2",
+    "word": "NEBBIA",
+    "taboo": [
+      "VAPORE ACQUEO",
+      "VISIBILITÀ",
+      "ARIA",
+      "FOSCHIA",
+      "METEO"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": "p026_r1_c3",
+    "word": "RUGIADA",
+    "taboo": [
+      "ACQUA",
+      "CONDENSAZIONE",
+      "GOCCIA",
+      "UMIDITÀ",
+      "PUNTO"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": "p026_r2_c1",
+    "word": "METEOROLOGIA",
+    "taboo": [
+      "SCIENZA",
+      "PREVISIONI",
+      "ATMOSFERA",
+      "PIOGGIA",
+      "TEMPO"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": "p026_r2_c2",
+    "word": "TEMPORALE",
+    "taboo": [
+      "PIOGGIA",
+      "PRECIPITAZIONI",
+      "MALTEMPO",
+      "FULMINE",
+      "GRANDINE"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": "p026_r2_c3",
+    "word": "URAGANO",
+    "taboo": [
+      "CICLONE",
+      "TROPICALE",
+      "OCEANO",
+      "TEMPORALE",
+      "PIOGGIA"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": "p026_r3_c1",
+    "word": "SMOG",
+    "taboo": [
+      "AUTOMOBILE",
+      "INQUINAMENTO",
+      "PARTICOLATO",
+      "ARIA",
+      "INDUSTRIA"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": "p026_r3_c2",
+    "word": "ANIDRIDE CARBONICA",
+    "taboo": [
+      "GAS",
+      "CO 2",
+      "INQUINAMENTO",
+      "RISCALDAMENTO",
+      "EMISSIONI"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": "p026_r3_c3",
+    "word": "MONOSSIDO DI CARBONIO",
+    "taboo": [
+      "GAS",
+      "CO",
+      "INQUINAMENTO",
+      "INTOSSICAZIONE",
+      "ARIA"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": "p026_r4_c1",
+    "word": "PIOGGIA ACIDA",
+    "taboo": [
+      "INQUINAMENTO",
+      "ACIDO SOLFORICO",
+      "OSSIDO DI AZOTO",
+      "ATMOSFERA",
+      "EMISSIONI"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": "p026_r4_c2",
+    "word": "GRANDINE",
+    "taboo": [
+      "ATMOSFERA",
+      "GHIACCIO",
+      "PIOGGIA",
+      "FREDDO",
+      "PRECIPITAZIONI"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": "p026_r4_c3",
+    "word": "INQUINAMENTO",
+    "taboo": [
+      "GAS SERRA",
+      "SMOG",
+      "PARTICOLATO",
+      "RIFIUTI",
+      "RISCALDAMENTO"
+    ],
+    "sourcePage": 26
+  },
+  {
+    "id": "p028_r1_c1",
+    "word": "RISCALDAMENTO CLIMATICO",
+    "taboo": [
+      "ANIDRIDE CARBONICA",
+      "TEMPERATURA",
+      "INQUINAMENTO",
+      "EFFETTO SERRA",
+      "COMBUSTIBILI FOSSILI"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": "p028_r1_c2",
+    "word": "CLIMA",
+    "taboo": [
+      "RISCALDAMENTO",
+      "TROPICALE",
+      "POLARE",
+      "ATMOSFERA",
+      "TEMPERATO"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": "p028_r1_c3",
+    "word": "BIOMA",
+    "taboo": [
+      "VEGETAZIONE",
+      "CLIMA",
+      "TUNDRA",
+      "TAIGA",
+      "SAVANA"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": "p028_r2_c1",
+    "word": "VEGETAZIONE",
+    "taboo": [
+      "FLORA",
+      "ALBERO",
+      "BOSCO",
+      "FOGLIA",
+      "FOTOSINTESI"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": "p028_r2_c2",
+    "word": "ARIDO",
+    "taboo": [
+      "DESERTO",
+      "CALDO",
+      "SABBIA",
+      "SECCO",
+      "ASCIUTTO"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": "p028_r2_c3",
+    "word": "TEMPERATO",
+    "taboo": [
+      "CLIMA",
+      "MITE",
+      "TEMPERATURA",
+      "MODERATO",
+      "CALORE"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": "p028_r3_c1",
+    "word": "POLARE",
+    "taboo": [
+      "ARTICO",
+      "ANTARTICO",
+      "CLIMA",
+      "NEVE",
+      "GHIACCIO"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": "p028_r3_c2",
+    "word": "EQUATORE",
+    "taboo": [
+      "PARALLELO",
+      "TROPICALE",
+      "CALDO",
+      "TERRA",
+      "CIRCONFERENZA"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": "p028_r3_c3",
+    "word": "ARTIDE",
+    "taboo": [
+      "POLO NORD",
+      "BOREALE",
+      "GHIACCIO",
+      "FREDDO",
+      "NEVE"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": "p028_r4_c1",
+    "word": "ANTARTIDE",
+    "taboo": [
+      "POLO SUD",
+      "GHIACCIO",
+      "NEVE",
+      "AUSTRALE",
+      "FREDDO"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": "p028_r4_c2",
+    "word": "TROPICO DEL CANCRO",
+    "taboo": [
+      "PARALLELO",
+      "BOREALE",
+      "NORD",
+      "EMISFERO",
+      "LATITUDINE"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": "p028_r4_c3",
+    "word": "TROPICO DEL CAPRICORNO",
+    "taboo": [
+      "PARALLELO",
+      "AUSTRALE",
+      "SUD",
+      "EMISFERO",
+      "LATITUDINE"
+    ],
+    "sourcePage": 28
+  },
+  {
+    "id": "p030_r1_c1",
+    "word": "GLACIAZIONE",
+    "taboo": [
+      "NEVE",
+      "ERA",
+      "GHIACCIO",
+      "CLIMA",
+      "PERIODO"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": "p030_r1_c2",
+    "word": "METANO",
+    "taboo": [
+      "GAS",
+      "CH 4",
+      "EMISSIONI",
+      "ALLEVAMENTI",
+      "BOVINI"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": "p030_r1_c3",
+    "word": "EROSIONE",
+    "taboo": [
+      "PROCESSO",
+      "ROCCIA",
+      "CLIMA",
+      "DISGREGAZIONE",
+      "RIMOZIONE"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": "p030_r2_c1",
+    "word": "SEDIMENTAZIONE",
+    "taboo": [
+      "DEPOSITO",
+      "GRAVITÀ",
+      "PARTICELLE",
+      "DECANTAZIONE",
+      "PROCESSO"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": "p030_r2_c2",
+    "word": "CARSISMO",
+    "taboo": [
+      "ACQUA",
+      "PRECIPITAZIONE",
+      "ROCCIA CALCAREA",
+      "DISSOLUZIONE",
+      "GROTTA"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": "p030_r2_c3",
+    "word": "DOLINA",
+    "taboo": [
+      "CARSISMO",
+      "DEPRESSIONE",
+      "ROCCIA CALCAREA",
+      "EROSIONE",
+      "CAVITÀ"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": "p030_r3_c1",
+    "word": "STALATTITE",
+    "taboo": [
+      "CARSISMO",
+      "SOFFITTO",
+      "ROCCIA CALCAREA",
+      "ACQUA",
+      "GROTTA"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": "p030_r3_c2",
+    "word": "STALAGMITE",
+    "taboo": [
+      "CARSISMO",
+      "COLONNA",
+      "ROCCIA CALCAREA",
+      "ACQUA",
+      "GROTTA"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": "p030_r3_c3",
+    "word": "DILAVAMENTO",
+    "taboo": [
+      "ACQUA",
+      "SCORRERE",
+      "EROSIONE",
+      "ROCCIA",
+      "DEGRADAZIONE"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": "p030_r4_c1",
+    "word": "FRANA",
+    "taboo": [
+      "CROLLO",
+      "ROTTURA",
+      "ROCCIA",
+      "MONTAGNA",
+      "CADUTA"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": "p030_r4_c2",
+    "word": "ALLUVIONE",
+    "taboo": [
+      "ACQUA",
+      "INONDAZIONE",
+      "PIOGGIA",
+      "STRARIPARE",
+      "FIUME"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": "p030_r4_c3",
+    "word": "DEFORESTAZIONE",
+    "taboo": [
+      "ALBERI",
+      "TAGLIARE",
+      "BOSCO",
+      "TRONCHI",
+      "FORESTA"
+    ],
+    "sourcePage": 30
+  },
+  {
+    "id": "p032_r1_c1",
+    "word": "CASCATA",
+    "taboo": [
+      "ACQUA",
+      "NIAGARA",
+      "DISLIVELLO",
+      "FIUME",
+      "CADUTA"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": "p032_r1_c2",
+    "word": "CIOTTOLO",
+    "taboo": [
+      "SASSO",
+      "FIUME",
+      "TORRENTE",
+      "TONDO",
+      "ACQUA"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": "p032_r1_c3",
+    "word": "MEANDRO",
+    "taboo": [
+      "FIUME",
+      "ANSA",
+      "CURVA",
+      "DEPOSITO",
+      "EROSIONE"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": "p032_r2_c1",
+    "word": "PIANURA",
+    "taboo": [
+      "PADANA",
+      "ALLUVIONALE",
+      "DEPOSITO",
+      "ALTOPIANO",
+      "SUPERFICIE"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": "p032_r2_c2",
+    "word": "COSTA",
+    "taboo": [
+      "LITORALE",
+      "MARE",
+      "ACQUA",
+      "OCEANO",
+      "SPIAGGIA"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": "p032_r2_c3",
+    "word": "LAGUNA",
+    "taboo": [
+      "VENEZIA",
+      "BACINO",
+      "COSTA",
+      "ACQUA SALMASTRA",
+      "LITORALE"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": "p032_r3_c1",
+    "word": "FIORDO",
+    "taboo": [
+      "NORVEGIA",
+      "MARE",
+      "VALLE",
+      "GHIACCIAIO",
+      "ACQUA"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": "p032_r3_c2",
+    "word": "FALESIA",
+    "taboo": [
+      "COSTA",
+      "ROCCIA",
+      "SCARPATA",
+      "RIPIDA",
+      "PARETE"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": "p032_r3_c3",
+    "word": "DUNA",
+    "taboo": [
+      "SABBIA",
+      "VENTO",
+      "SEDIMENTO",
+      "DESERTO",
+      "DEPOSITO"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": "p032_r4_c1",
+    "word": "SUOLO",
+    "taboo": [
+      "TERRENO",
+      "ROCCIA",
+      "ORIZZONTE",
+      "HUMUS",
+      "DEGRADAZIONE"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": "p032_r4_c2",
+    "word": "PEDOLOGIA",
+    "taboo": [
+      "SUOLO",
+      "TERRENO",
+      "ROCCIA",
+      "SCIENZA",
+      "GEOLOGIA"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": "p032_r4_c3",
+    "word": "HUMUS",
+    "taboo": [
+      "SUOLO",
+      "FERTILIZZANTE",
+      "SOSTANZA ORGANICA",
+      "DEGRADAZIONE",
+      "TORBA"
+    ],
+    "sourcePage": 32
+  },
+  {
+    "id": "p034_r1_c1",
+    "word": "IDROCARBURI",
+    "taboo": [
+      "COMBUSTIBILI FOSSILI",
+      "CARBONIO",
+      "IDROGENO",
+      "PETROLIO",
+      "METANO"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": "p034_r1_c2",
+    "word": "PETROLIO",
+    "taboo": [
+      "COMBUSTIBILE FOSSILE",
+      "BENZINA",
+      "GIACIMENTO",
+      "MISCELA",
+      "GREGGIO"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": "p034_r2_c1",
+    "word": "CARBONIO",
+    "taboo": [
+      "ELEMENTO",
+      "ORGANICO",
+      "IDROCARBURI",
+      "DIAMANTE",
+      "GRAFITE"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": "p034_r2_c2",
+    "word": "POLIMERO",
+    "taboo": [
+      "MOLECOLA",
+      "MONOMERO",
+      "CATENA",
+      "LEGAME",
+      "STRUTTURA"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": "p034_r2_c3",
+    "word": "MONOMERO",
+    "taboo": [
+      "MOLECOLA",
+      "POLIMERO",
+      "MONOSACCARIDE",
+      "AMMINOACIDO",
+      "NUCLEOTIDE"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": "p034_r3_c1",
+    "word": "IDROLISI",
+    "taboo": [
+      "REAZIONE",
+      "ROTTURA",
+      "ACQUA",
+      "ENERGIA",
+      "SCISSIONE"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": "p034_r3_c2",
+    "word": "ENZIMA",
+    "taboo": [
+      "CATALIZZATORE",
+      "REAZIONE",
+      "SUBSTRATO",
+      "ATTIVAZIONE",
+      "ENERGIA"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": "p034_r3_c3",
+    "word": "CARBOIDRATO",
+    "taboo": [
+      "POLIMERO",
+      "GLUCIDE",
+      "ZUCCHERO",
+      "POLISACCARIDE",
+      "MONOSACCARIDE"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": "p034_r4_c1",
+    "word": "PROTEINA",
+    "taboo": [
+      "POLIMERO",
+      "AMMINOACIDO",
+      "PEPTIDE",
+      "RIBOSOMA",
+      "ENZIMA"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": "p034_r4_c2",
+    "word": "LIPIDE",
+    "taboo": [
+      "GRASSO",
+      "TRIGLICERIDE",
+      "FOSFOLIPIDE",
+      "STEROIDE",
+      "CERA"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": "p034_r4_c3",
+    "word": "ACIDO NUCLEICO",
+    "taboo": [
+      "DNA",
+      "RNA",
+      "NUCLOETIDE",
+      "BASE AZOTATA",
+      "GRUPPO FOSFATO"
+    ],
+    "sourcePage": 34
+  },
+  {
+    "id": "p036_r1_c1",
+    "word": "VITAMINA",
+    "taboo": [
+      "B",
+      "C",
+      "ESSENZIALE",
+      "INTEGRATORE",
+      "E"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": "p036_r1_c2",
+    "word": "MONOSACCARIDE",
+    "taboo": [
+      "CARBOIRDATO",
+      "ZUCCHERO",
+      "GLUCOSIO",
+      "FRUTTOSIO",
+      "GALATTOSIO"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": "p036_r1_c3",
+    "word": "DISACCARIDE",
+    "taboo": [
+      "CARBOIDRATO",
+      "ZUCCHERO",
+      "SACCAROSIO",
+      "LATTOSIO",
+      "MALTOSIO"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": "p036_r2_c1",
+    "word": "OLIGOSACCARIDE",
+    "taboo": [
+      "CARBOIDRATO",
+      "MONOSACCARIDE",
+      "ZUCCHERO",
+      "RAFFINOSIO",
+      "DISACCARIDE"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": "p036_r2_c2",
+    "word": "POLISACCARIDE",
+    "taboo": [
+      "CARBOIDRATO",
+      "MONOSACCARIDE",
+      "GLICOGENO",
+      "CELLULOSA",
+      "AMIDO"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": "p036_r2_c3",
+    "word": "GLUCOSIO",
+    "taboo": [
+      "MONOSACCARIDE",
+      "ZUCCHERO",
+      "CARBOIDRATO",
+      "ENERGIA",
+      "C 6 H 12 O 6"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": "p036_r3_c1",
+    "word": "FRUTTOSIO",
+    "taboo": [
+      "MONOSACCARIDE",
+      "ZUCCHERO",
+      "GLUCOSIO",
+      "CARBOIDRATO",
+      "C 6 H 12 O 6"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": "p036_r3_c2",
+    "word": "GALATTOSIO",
+    "taboo": [
+      "MONOSACCARIDE",
+      "ZUCCHERO",
+      "LATTOSIO",
+      "CARBOIDRATO",
+      "C 6 H 12 O 6"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": "p036_r3_c3",
+    "word": "CALORIE",
+    "taboo": [
+      "ENERGIA",
+      "DIETA",
+      "CIBO",
+      "BIOMOLECOLE",
+      "ALIMENTAZIONE"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": "p036_r4_c1",
+    "word": "SACCAROSIO",
+    "taboo": [
+      "DISACCARIDE",
+      "CARBOIDRATO",
+      "ZUCCHERO",
+      "GLUCOSIO",
+      "FRUTTOSIO"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": "p036_r4_c2",
+    "word": "LATTOSIO",
+    "taboo": [
+      "DISACCARIDE",
+      "CARBOIDRATO",
+      "ZUCCHERO",
+      "GLUCOSIO",
+      "GALATTOSIO"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": "p036_r4_c3",
+    "word": "MALTOSIO",
+    "taboo": [
+      "DISACCARIDE",
+      "CARBOIDRATO",
+      "ZUCCHERO",
+      "GLUCOSIO",
+      "BIRRA"
+    ],
+    "sourcePage": 36
+  },
+  {
+    "id": "p038_r1_c1",
+    "word": "FOSFOLIPIDI",
+    "taboo": [
+      "MEMBRANA",
+      "CELLULA",
+      "GLICEROLO",
+      "ACIDI GRASSI",
+      "TESTA"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": "p038_r1_c2",
+    "word": "TRIGLICERIDI",
+    "taboo": [
+      "GRASSI",
+      "LIPIDI",
+      "ENERGIA",
+      "RISERVA",
+      "ACCUMULO"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": "p038_r1_c3",
+    "word": "IDROFOBO",
+    "taboo": [
+      "ACQUA",
+      "GRASSO",
+      "IMPERMEABILE",
+      "APOLARE",
+      "IDROREPELLENTE"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": "p038_r2_c1",
+    "word": "GLICEROLO",
+    "taboo": [
+      "FOSFOLIPIDE",
+      "MEMBRANA",
+      "ALCOL",
+      "ACIDI GRASSI",
+      "LIPIDI"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": "p038_r2_c2",
+    "word": "ACIDI GRASSI",
+    "taboo": [
+      "TRIGLICERIDE",
+      "FOSFOLIPIDE",
+      "CODA",
+      "SATURI",
+      "INSATURI"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": "p038_r2_c3",
+    "word": "STEROIDE",
+    "taboo": [
+      "COLESTEROLO",
+      "ORMONE",
+      "GRASSO",
+      "LIPIDE",
+      "TESTOSTERONE"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": "p038_r3_c1",
+    "word": "COLESTEROLO",
+    "taboo": [
+      "GRASSO",
+      "ARTERIE",
+      "STEROIDE",
+      "ACCUMULO",
+      "LIPIDE"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": "p038_r3_c2",
+    "word": "AMMINOACIDO",
+    "taboo": [
+      "PROTEINA",
+      "MONOMERO",
+      "CARBONIO",
+      "CATENA LATERALE",
+      "ESSENZIALE"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": "p038_r3_c3",
+    "word": "CATENA LATERALE",
+    "taboo": [
+      "AMMINOACIDO",
+      "PROTEINA",
+      "CARBONIO",
+      "POLARE",
+      "GRUPPO"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": "p038_r4_c1",
+    "word": "LEGAME PEPTIDICO",
+    "taboo": [
+      "PROTEINA",
+      "COVALENTE",
+      "AMMINOACIDO",
+      "CONDENSAZIONE",
+      "CATENA"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": "p038_r4_c2",
+    "word": "DNA",
+    "taboo": [
+      "ELICA",
+      "DOPPIA",
+      "NUCLEOTIDI",
+      "GENE",
+      "NUCLEO"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": "p038_r4_c3",
+    "word": "RNA",
+    "taboo": [
+      "NUCLEOTIDI",
+      "MESSAGGERO",
+      "TRASPORTO",
+      "TRASCRIZIONE",
+      "RIBOSOMIALE"
+    ],
+    "sourcePage": 38
+  },
+  {
+    "id": "p040_r1_c1",
+    "word": "RIBOSIO",
+    "taboo": [
+      "RNA",
+      "ACIDO NUCLEICO",
+      "ZUCCHERO",
+      "PENTOSO",
+      "NUCLEOTIDE"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": "p040_r1_c2",
+    "word": "DESOSSIRIBOSIO",
+    "taboo": [
+      "RNA",
+      "ACIDO NUCLEICO",
+      "ZUCCHERO",
+      "PENTOSO",
+      "NUCLEOTIDE"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": "p040_r1_c3",
+    "word": "AMIDO",
+    "taboo": [
+      "POLISACCARIDE",
+      "CARBOIDRATO",
+      "RISERVA",
+      "ENERGIA",
+      "PASTA"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": "p040_r2_c1",
+    "word": "GLICOGENO",
+    "taboo": [
+      "POLISACCARIDE",
+      "CARBOIDRATO",
+      "RISERVA",
+      "ENERGIA",
+      "FEGATO"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": "p040_r2_c2",
+    "word": "CELLULOSA",
+    "taboo": [
+      "POLISACCARIDE",
+      "CARBOIDRATO",
+      "PIANTE",
+      "STRUTTURA",
+      "PARETE"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": "p040_r2_c3",
+    "word": "CHITINA",
+    "taboo": [
+      "POLISACCARIDE",
+      "CARBOIDRATO",
+      "ANIMALI",
+      "STRUTTURA",
+      "ESOSCHELETRO"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": "p040_r3_c1",
+    "word": "BASE AZOTATA",
+    "taboo": [
+      "ADENINA",
+      "CITOSINA",
+      "GUANINA",
+      "TIMINA",
+      "URACILE"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": "p040_r3_c2",
+    "word": "NUCLEOTIDE",
+    "taboo": [
+      "DNA",
+      "RNA",
+      "BASE AZOTATA",
+      "GRUPPO FOSFATO",
+      "ZUCCHERO"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": "p040_r3_c3",
+    "word": "ATP",
+    "taboo": [
+      "ENERGIA",
+      "CELLULA",
+      "MITOCONDRIO",
+      "RESPIRAZIONE",
+      "CICLO DI KREBS"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": "p040_r4_c1",
+    "word": "LEGAME A IDROGENO",
+    "taboo": [
+      "ACQUA",
+      "OSSIGENO",
+      "ELETTRONEGATIVITÀ",
+      "BASE AZOTATA",
+      "INTERMOLECOLARE"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": "p040_r4_c2",
+    "word": "IDROFILO",
+    "taboo": [
+      "ACQUA",
+      "COTONE",
+      "PERMEABILE",
+      "ASSORBIRE",
+      "POLARE"
+    ],
+    "sourcePage": 40
+  },
+  {
+    "id": "p042_r2_c1",
+    "word": "UNICELLULARE",
+    "taboo": [
+      "UNO",
+      "BATTERIO",
+      "ARCHEA",
+      "ORGANISMO",
+      "PROCARIOTE"
+    ],
+    "sourcePage": 42
+  },
+  {
+    "id": "p042_r2_c2",
+    "word": "PLURICELLULARE",
+    "taboo": [
+      "MOLTI",
+      "ORGANISMO",
+      "ANIMALE",
+      "VEGETALE",
+      "EUCARIOTE"
+    ],
+    "sourcePage": 42
+  },
+  {
+    "id": "p042_r3_c1",
+    "word": "CELLULA",
+    "taboo": [
+      "VITA",
+      "ORGANULO",
+      "ORGANISMO",
+      "UNITÀ",
+      "MEMBRANA"
+    ],
+    "sourcePage": 42
+  },
+  {
+    "id": "p042_r3_c2",
+    "word": "MICROSCOPIO",
+    "taboo": [
+      "STRUMENTO",
+      "LABORATORIO",
+      "OTTICO",
+      "ELETTRONICO",
+      "VETRINO"
+    ],
+    "sourcePage": 42
+  },
+  {
+    "id": "p042_r3_c3",
+    "word": "RISOLUZIONE",
+    "taboo": [
+      "PUNTO",
+      "SCHERMO",
+      "MICROSCOPIO",
+      "DISTANZA",
+      "NITIDEZZA"
+    ],
+    "sourcePage": 42
+  },
+  {
+    "id": "p042_r4_c1",
+    "word": "MICROMETRO",
+    "taboo": [
+      "MILIONE",
+      "MISURA",
+      "CELLULA",
+      "BATTERIO",
+      "MINUSCOLO"
+    ],
+    "sourcePage": 42
+  },
+  {
+    "id": "p042_r4_c2",
+    "word": "NANOMETRO",
+    "taboo": [
+      "MILIARDO",
+      "MISURA",
+      "VIRUS",
+      "ORGANULO",
+      "MICROSCOPICO"
+    ],
+    "sourcePage": 42
+  },
+  {
+    "id": "p042_r4_c3",
+    "word": "MEMBRANA PLASMATICA",
+    "taboo": [
+      "CELLULA",
+      "FOSFOLIPIDI",
+      "SEMIPERMEABILE",
+      "TRASPORTO",
+      "PROTEINE"
+    ],
+    "sourcePage": 42
+  },
+  {
+    "id": "p044_r1_c1",
+    "word": "CITOPLASMA",
+    "taboo": [
+      "ACQUA",
+      "ORGANULI",
+      "MATRICE",
+      "CELLULA",
+      "MEMBRANA"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": "p044_r1_c2",
+    "word": "PROCARIOTE",
+    "taboo": [
+      "CELLULA",
+      "NUCLEO",
+      "CITOPLASMA",
+      "BATTERIO",
+      "ARCHEA"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": "p044_r1_c3",
+    "word": "EUCARIOTE",
+    "taboo": [
+      "CELLULA",
+      "NUCLEO",
+      "ENDOSIMBIOSI",
+      "PLURICELLULARE",
+      "ORGANULI"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": "p044_r2_c1",
+    "word": "NUCLEO",
+    "taboo": [
+      "DNA",
+      "RNA",
+      "PORO",
+      "CELLULA",
+      "CROMOSOMA"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": "p044_r2_c2",
+    "word": "ORGANULO",
+    "taboo": [
+      "CELLULA",
+      "MITOCONDRIO",
+      "LISOSOMA",
+      "APPARATO DI GOLGI",
+      "RETICOLO"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": "p044_r2_c3",
+    "word": "PARETE CELLULARE",
+    "taboo": [
+      "CELLULOSA",
+      "CHITINA",
+      "CELLULA",
+      "BATTERIO",
+      "PEPTIDOGLICANO"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": "p044_r3_c1",
+    "word": "CROMOSOMA",
+    "taboo": [
+      "GENE",
+      "CROMOSOMA",
+      "CROMATINA",
+      "NUCLEO",
+      "DNA"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": "p044_r3_c2",
+    "word": "BATTERIO",
+    "taboo": [
+      "STREPTOCOCCO",
+      "ESCHERICHIA COLI",
+      "PATOGENO",
+      "INFEZIONE",
+      "UNICELLULARE"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": "p044_r3_c3",
+    "word": "PLASMIDE",
+    "taboo": [
+      "DNA",
+      "CIRCOLARE",
+      "BATTERIO",
+      "TRADSDUZIONE",
+      "CONIUGAZIONE"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": "p044_r4_c1",
+    "word": "FLAGELLO",
+    "taboo": [
+      "BATTERIO",
+      "SPERMATOZOO",
+      "CODA",
+      "MOVIMENTO",
+      "ENERGIA"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": "p044_r4_c2",
+    "word": "CAPSULA",
+    "taboo": [
+      "BATTERIO",
+      "PARETE",
+      "CARBOIDRATI",
+      "ADESIONE",
+      "PROTEZIONE"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": "p044_r4_c3",
+    "word": "CITOSCHELETRO",
+    "taboo": [
+      "CELLULA",
+      "MICROTUBULI",
+      "MICROFILAMENTI",
+      "FILAMENTI INTERMEDI",
+      "ACTINA"
+    ],
+    "sourcePage": 44
+  },
+  {
+    "id": "p046_r1_c1",
+    "word": "CIGLIA",
+    "taboo": [
+      "CELLULA",
+      "MOVIMENTO",
+      "OCCHIO",
+      "SBATTERE",
+      "MEMBRANA"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": "p046_r1_c2",
+    "word": "RIBOSOMA",
+    "taboo": [
+      "ORGANULO",
+      "SINTESI",
+      "PROTEINE",
+      "RETICOLO",
+      "NUCLEOLO"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": "p046_r1_c3",
+    "word": "NUCLEOLO",
+    "taboo": [
+      "RIBOSOMA",
+      "CELLULA",
+      "RNA",
+      "CITOPLASMA",
+      "SINTESI"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": "p046_r2_c1",
+    "word": "CROMATINA",
+    "taboo": [
+      "DNA",
+      "NUCLEO",
+      "CROMOSOMA",
+      "CELLULA",
+      "GENI"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": "p046_r2_c2",
+    "word": "RETICOLO ENDOPLASMATICO",
+    "taboo": [
+      "RUVIDO",
+      "LISCIO",
+      "RIBOSOMI",
+      "PROTEINE",
+      "LIPIDI"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": "p046_r2_c3",
+    "word": "APPARATO DI GOLGI",
+    "taboo": [
+      "PROTEINE",
+      "RETICOLO",
+      "ORGANULO",
+      "VESCICOLA",
+      "TRASPORTO"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": "p046_r3_c1",
+    "word": "VESCICOLA",
+    "taboo": [
+      "TRASPORTO",
+      "MEMBRANA",
+      "APPARATO DI GOLGI",
+      "ESOCITOSI",
+      "ENDOCITOSI"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": "p046_r3_c2",
+    "word": "LISOSOMA",
+    "taboo": [
+      "ENZIMI",
+      "SCOMPORRE",
+      "ORGANULO",
+      "ELIMINARE",
+      "RICICLARE"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": "p046_r3_c3",
+    "word": "VACUOLO",
+    "taboo": [
+      "ACQUA",
+      "SERBATOIO",
+      "RIEMPIRE",
+      "TURGORE",
+      "PRESSIONE"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": "p046_r4_c1",
+    "word": "TRASPORTO ATTIVO",
+    "taboo": [
+      "CELLULA",
+      "MEMBRANA",
+      "POMPA",
+      "ENERGIA",
+      "ATP"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": "p046_r4_c2",
+    "word": "TRASPORTO PASSIVO",
+    "taboo": [
+      "CELLULA",
+      "MEMBRANA",
+      "DIFFUSIONE",
+      "CANALE",
+      "PROTEINA"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": "p046_r4_c3",
+    "word": "DIFFUSIONE",
+    "taboo": [
+      "SEMPLICE",
+      "FACILITATA",
+      "ACQUA",
+      "TRASPORTO",
+      "MEMBRANA"
+    ],
+    "sourcePage": 46
+  },
+  {
+    "id": "p048_r1_c1",
+    "word": "OSMOSI",
+    "taboo": [
+      "ACQUA",
+      "GRADIENTE",
+      "ISOTONICO",
+      "CONCENTRAZIONE",
+      "MOVIMENTO"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": "p048_r1_c2",
+    "word": "ISOTONICO",
+    "taboo": [
+      "EQUILIBRIO",
+      "OSMOSI",
+      "ACQUA",
+      "MEMRBANA",
+      "CONCENTRAZIONE"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": "p048_r1_c3",
+    "word": "ACQUAPORINA",
+    "taboo": [
+      "PROTEINA",
+      "MEMBRANA",
+      "TRASPORTO",
+      "PASSAGGIO",
+      "CELLULA"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": "p048_r2_c1",
+    "word": "POMPA SODIO-POTASSIO",
+    "taboo": [
+      "ENERGIA",
+      "ATP",
+      "TRASPORTO",
+      "ATTIVO",
+      "MEMBRANA"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": "p048_r2_c2",
+    "word": "ESOCITOSI",
+    "taboo": [
+      "MEMBRANA",
+      "TRASPORTO",
+      "USCIRE",
+      "VESCICOLA",
+      "SECREZIONE"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": "p048_r2_c3",
+    "word": "ENDOCITOSI",
+    "taboo": [
+      "MEMBRANA",
+      "TRASPORTO",
+      "ENTRARE",
+      "VESCICOLA",
+      "ASSORBIMENTO"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": "p048_r3_c1",
+    "word": "SECREZIONE",
+    "taboo": [
+      "SINTESI",
+      "PRODURRE",
+      "ORMONE",
+      "ESOCITOSI",
+      "GHIANDOLA"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": "p048_r3_c2",
+    "word": "MITOCONDRIO",
+    "taboo": [
+      "ORGANULO",
+      "ENERGIA",
+      "ATP",
+      "RESPIRAZIONE",
+      "MATRICE"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": "p048_r3_c3",
+    "word": "CLOROPLASTO",
+    "taboo": [
+      "ORGANULO",
+      "CLOROFILLA",
+      "FOTOSINTESI",
+      "VEGETALI",
+      "TILACOIDE"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": "p048_r4_c1",
+    "word": "TILACOIDE",
+    "taboo": [
+      "CLOROFILLA",
+      "CLOROPLASTO",
+      "FOTOSINTESI",
+      "STROMA",
+      "LUCE"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": "p048_r4_c2",
+    "word": "CLOROFILLA",
+    "taboo": [
+      "VERDE",
+      "PIGMENTO",
+      "FOTOSINTESI",
+      "LUCE",
+      "PIANTE"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": "p048_r4_c3",
+    "word": "PIGMENTO",
+    "taboo": [
+      "CLOROFILLA",
+      "COLORE",
+      "FOTOSINTESI",
+      "CAROTENOIDI",
+      "COLORANTE"
+    ],
+    "sourcePage": 48
+  },
+  {
+    "id": "p050_r1_c1",
+    "word": "REAZIONE ENDOERGONICA",
+    "taboo": [
+      "ENERGIA",
+      "ASSORBIMENTO",
+      "CALORE",
+      "PRODOTTI",
+      "REAGENTI"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": "p050_r1_c2",
+    "word": "REAZIONE ESOERGONICA",
+    "taboo": [
+      "ENERGIA",
+      "EMISSIONE",
+      "CALORE",
+      "PRODOTTI",
+      "REAGENTI"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": "p050_r1_c3",
+    "word": "FOSFORILAZIONE",
+    "taboo": [
+      "GLICOLISI",
+      "GRUPPO FOSFATO",
+      "AGGIUNGERE",
+      "LEGAME",
+      "OSSIDATIVA"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": "p050_r2_c1",
+    "word": "CICLO DI CALVIN-BENSON",
+    "taboo": [
+      "FOTOSINTESI",
+      "FASE OSCURA",
+      "CLOROPLASTO",
+      "CARBONIO",
+      "RUBISCO"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": "p050_r2_c2",
+    "word": "GLICOLISI",
+    "taboo": [
+      "GLUCOSIO",
+      "CITOPLASMA",
+      "ATP",
+      "DIECI",
+      "PIRUVATO"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": "p050_r2_c3",
+    "word": "FERMENTAZIONE",
+    "taboo": [
+      "LATTICA",
+      "ALCOLICA",
+      "ACIDO LATTICO",
+      "ETANOLO",
+      "GLICOLISI"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": "p050_r3_c1",
+    "word": "RESPIRAZIONE CELLULARE",
+    "taboo": [
+      "MITOCONDRIO",
+      "ATP",
+      "ENERGIA",
+      "CICLO DI KREBS",
+      "ELETTRONI"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": "p050_r3_c2",
+    "word": "OSSIDAZIONE",
+    "taboo": [
+      "ELETTRONI",
+      "REAZIONE",
+      "MOVIMENTO",
+      "IONE",
+      "PERDITA"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": "p050_r3_c3",
+    "word": "RIDUZIONE",
+    "taboo": [
+      "ELETTRONI",
+      "REAZIONE",
+      "MOVIMENTO",
+      "IONE",
+      "AGGIUNTA"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": "p050_r4_c1",
+    "word": "COENZIMA",
+    "taboo": [
+      "NADH",
+      "FADH 2",
+      "ACETIL-COA",
+      "REAZIONE",
+      "ENERGIA"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": "p050_r4_c2",
+    "word": "AEROBICO",
+    "taboo": [
+      "OSSIGENO",
+      "MITOCONDRIO",
+      "RESPIRAZIONE",
+      "ENERGIA",
+      "PROCESSO"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": "p050_r4_c3",
+    "word": "ANAEROBICO",
+    "taboo": [
+      "OSSIGENO",
+      "ASSENZA",
+      "GLICOLISI",
+      "FERMENTAZIONE",
+      "PROCESSO"
+    ],
+    "sourcePage": 50
+  },
+  {
+    "id": "p052_r1_c1",
+    "word": "CICLO DI KREBS",
+    "taboo": [
+      "MITOCONDRIO",
+      "OSSALACETATO",
+      "ATP",
+      "ENERGIA",
+      "RESPIRAZIONE"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": "p052_r1_c2",
+    "word": "MATRICE",
+    "taboo": [
+      "MITOCONDRIO",
+      "CITOPLASMA",
+      "TABELLA",
+      "MATEMATICA",
+      "CELLULA"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": "p052_r1_c3",
+    "word": "ACIDO LATTICO",
+    "taboo": [
+      "FERMENTAZIONE",
+      "OSSIGENO",
+      "GLICOLISI",
+      "MUSCOLI",
+      "RIDUZIONE"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": "p052_r2_c1",
+    "word": "ALCOL ETILICO",
+    "taboo": [
+      "FERMENTAZIONE",
+      "LIEVITO",
+      "ALCOLICI",
+      "RIDUZIONE",
+      "ETANOLO"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": "p052_r2_c2",
+    "word": "MITOSI",
+    "taboo": [
+      "CELLULA",
+      "DUPLICAZIONE",
+      "CLONE",
+      "SCISSIONE",
+      "CITODIERESI"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": "p052_r2_c3",
+    "word": "MEIOSI",
+    "taboo": [
+      "CELLULA",
+      "DUPLICAZIONE",
+      "GAMETE",
+      "CROSSING-OVER",
+      "CITODIERESI"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": "p052_r3_c1",
+    "word": "DIVISIONE CELLULARE",
+    "taboo": [
+      "CELLULA",
+      "MITOSI",
+      "MEIOSI",
+      "RIPRODUZIONE",
+      "DNA"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": "p052_r3_c2",
+    "word": "GAMETE",
+    "taboo": [
+      "SPERMATOZOO",
+      "OVULO",
+      "MEIOSI",
+      "GONADI",
+      "FECONDAZIONE"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": "p052_r3_c3",
+    "word": "SCISSIONE BINARIA",
+    "taboo": [
+      "MITOSI",
+      "BATTERIO",
+      "RIPRODUZIONE",
+      "CLONE",
+      "DIVISIONE"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": "p052_r4_c1",
+    "word": "ISTONE",
+    "taboo": [
+      "DNA",
+      "NUCLEOSOMA",
+      "PROTEINA",
+      "ARROTOLARE",
+      "CROMATINA"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": "p052_r4_c2",
+    "word": "CARIOTIPO",
+    "taboo": [
+      "DNA",
+      "CROMOSOMI",
+      "METAFASE",
+      "NUMERO",
+      "GENETICO"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": "p052_r4_c3",
+    "word": "CICLO CELLULARE",
+    "taboo": [
+      "INTERFASE",
+      "FASE MITOTICA",
+      "CITODIERESI",
+      "FASE G",
+      "FASE S"
+    ],
+    "sourcePage": 52
+  },
+  {
+    "id": "p054_r1_c1",
+    "word": "INTERFASE",
+    "taboo": [
+      "CELLULA",
+      "CICLO",
+      "FASE S",
+      "FASE G",
+      "MITOSI"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": "p054_r1_c2",
+    "word": "CITODIERESI",
+    "taboo": [
+      "CELLULA",
+      "CITOPLASMA",
+      "MITOSI",
+      "MEIOSI",
+      "SEPARAZIONE"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": "p054_r1_c3",
+    "word": "TUMORE",
+    "taboo": [
+      "CANCRO",
+      "MUTAZIONE",
+      "CANCEROGENO",
+      "MALATTIA",
+      "MALIGNO"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": "p054_r2_c1",
+    "word": "CENTRIOLO",
+    "taboo": [
+      "ORGANULO",
+      "FUSO",
+      "MEIOSI",
+      "MITOSI",
+      "MICROTUBULI"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": "p054_r2_c2",
+    "word": "DIPLOIDE",
+    "taboo": [
+      "ZIGOTE",
+      "CROMOSOMI",
+      "46",
+      "CARIOTIPO",
+      "DNA"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": "p054_r2_c3",
+    "word": "APLOIDE",
+    "taboo": [
+      "SPERMATOZOO",
+      "OVULO",
+      "GAMETE",
+      "23",
+      "CROMOSOMI"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": "p054_r3_c1",
+    "word": "ZIGOTE",
+    "taboo": [
+      "FECONDAZIONE",
+      "CELLULA",
+      "SPERMATOZOO",
+      "OVULO",
+      "SVILUPPO"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": "p054_r3_c2",
+    "word": "FECONDAZIONE",
+    "taboo": [
+      "SPERMATOZOO",
+      "OVULO",
+      "ZIGOTE",
+      "RIPRODUZIONE",
+      "UNIONE"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": "p054_r3_c3",
+    "word": "TETRADE",
+    "taboo": [
+      "CROMOSOMI",
+      "QUATTRO",
+      "OMOLOGHI",
+      "CROSSING-OVER",
+      "MEIOSI"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": "p054_r4_c1",
+    "word": "CROSSING-OVER",
+    "taboo": [
+      "MEIOSI",
+      "TETRADE",
+      "CROMOSOMI",
+      "PROFASE",
+      "SCAMBIARE"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": "p054_r4_c2",
+    "word": "ANAFASE",
+    "taboo": [
+      "MEIOSI",
+      "MITOSI",
+      "CROMOSOMI",
+      "SEPARAZIONE",
+      "SPOSTAMENTO"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": "p054_r4_c3",
+    "word": "METAFASE",
+    "taboo": [
+      "MEIOSI",
+      "MITOSI",
+      "CROMOSOMI",
+      "PIANO",
+      "EQUATORIALE"
+    ],
+    "sourcePage": 54
+  },
+  {
+    "id": "p056_r1_c1",
+    "word": "GENETICA",
+    "taboo": [
+      "MENDEL",
+      "DNA",
+      "CROMOSOMI",
+      "EREDITARIETÀ",
+      "LAGO"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": "p056_r1_c2",
+    "word": "MENDEL",
+    "taboo": [
+      "PISELLO",
+      "GENETICA",
+      "LEGGI",
+      "EREDITARIETÀ",
+      "CROMOSOMI"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": "p056_r1_c3",
+    "word": "DOMINANTE",
+    "taboo": [
+      "GENE",
+      "OMOZIGOTE",
+      "RECESSIVO",
+      "ALLELE",
+      "CROMOSOMA"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": "p056_r2_c1",
+    "word": "RECESSIVO",
+    "taboo": [
+      "GENE",
+      "OMOZIGOTE",
+      "DOMINANTE",
+      "ALLELE",
+      "CROMOSOMA"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": "p056_r2_c2",
+    "word": "CARATTERE",
+    "taboo": [
+      "TRATTO",
+      "FENOTIPO",
+      "GENOTIPO",
+      "EREDITARIETÀ",
+      "GENI"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": "p056_r2_c3",
+    "word": "IBRIDO",
+    "taboo": [
+      "ETEROZIGOTE",
+      "INCROCIO",
+      "MULO",
+      "SPECIE",
+      "STERILE"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": "p056_r3_c1",
+    "word": "OMOZIGOTE",
+    "taboo": [
+      "ETEROZIGOTE",
+      "ALLELE",
+      "DOMINANTE",
+      "RECESSIVO",
+      "GENOTIPO"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": "p056_r3_c2",
+    "word": "ETEROZIGOTE",
+    "taboo": [
+      "OMOZIGOTE",
+      "ALLELE",
+      "DOMINANTE",
+      "RECESSIVO",
+      "GENOTIPO"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": "p056_r3_c3",
+    "word": "EREDITARIETÀ",
+    "taboo": [
+      "MENDEL",
+      "GENI",
+      "CROMOSOMI",
+      "DNA",
+      "FIGLIO"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": "p056_r4_c1",
+    "word": "GENE",
+    "taboo": [
+      "CROMOSOMA",
+      "DNA",
+      "EREDITARIETÀ",
+      "DUPLICAZIONE",
+      "CARATTERE"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": "p056_r4_c2",
+    "word": "DUPLICAZIONE",
+    "taboo": [
+      "DNA",
+      "RIPRODUZIONE",
+      "CELLULA",
+      "MITOSI",
+      "MEIOSI"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": "p056_r4_c3",
+    "word": "DNA POLIMERASI",
+    "taboo": [
+      "ENZIMA",
+      "PROTEINA",
+      "DUPLICAZIONE",
+      "NUCLEOTIDE",
+      "NUCLEO"
+    ],
+    "sourcePage": 56
+  },
+  {
+    "id": "p058_r1_c1",
+    "word": "CODIFICARE",
+    "taboo": [
+      "GENE",
+      "DNA",
+      "TRADUZIONE",
+      "BASE AZOTATA",
+      "CODONE"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": "p058_r1_c2",
+    "word": "TRASCRIZIONE",
+    "taboo": [
+      "RNA POLIMERASI",
+      "MESSAGGERO",
+      "DNA",
+      "NUCLEOTIDI",
+      "SPLICINF"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": "p058_r1_c3",
+    "word": "TRADUZIONE",
+    "taboo": [
+      "PROTEINE",
+      "SINTESI",
+      "RIBOSOMA",
+      "RNA",
+      "CODONE"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": "p058_r2_c1",
+    "word": "SPLICING",
+    "taboo": [
+      "MATURO",
+      "ALTERNATIVO",
+      "RNA",
+      "ESONE",
+      "INTRONE"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": "p058_r2_c2",
+    "word": "CODONE",
+    "taboo": [
+      "TRIPLETTA",
+      "BASE AZOTATA",
+      "CODIFICARE",
+      "RNA",
+      "AMMINOACIDO"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": "p058_r2_c3",
+    "word": "ANTICODONE",
+    "taboo": [
+      "TRIPLETTA",
+      "RNA",
+      "TRASPORTO",
+      "RIBOSOMA",
+      "AMMINOACIDO"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": "p058_r3_c1",
+    "word": "RNA MESSAGGERO",
+    "taboo": [
+      "TRASCRIZIONE",
+      "NUCLEO",
+      "RIBOSOMA",
+      "SPLICING",
+      "DNA"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": "p058_r3_c2",
+    "word": "MUTAZIONE",
+    "taboo": [
+      "GENETICA",
+      "GENOMA",
+      "CROMOSOMA",
+      "SILENTE",
+      "DELEZIONE"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": "p058_r3_c3",
+    "word": "AGENTE MUTAGENO",
+    "taboo": [
+      "RAGGI UV",
+      "FUMO",
+      "ALCOL",
+      "TUMORE",
+      "DNA"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": "p058_r4_c1",
+    "word": "URACILE",
+    "taboo": [
+      "BASE AZOTATA",
+      "RNA",
+      "NUCLEOTIDE",
+      "PIRIMIDINA",
+      "ADENINA"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": "p058_r4_c2",
+    "word": "ADENINA",
+    "taboo": [
+      "BASE AZOTATA",
+      "TIMINA",
+      "DNA",
+      "RNA",
+      "PURINA"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": "p058_r4_c3",
+    "word": "ANEUPLOIDIA",
+    "taboo": [
+      "ANOMALIA",
+      "CROMOSOMI",
+      "DISGIUNZIONE",
+      "CARIOTIPO",
+      "NUMERO"
+    ],
+    "sourcePage": 58
+  },
+  {
+    "id": "p060_r1_c1",
+    "word": "MALATTIA GENETICA",
+    "taboo": [
+      "CROMOSOMI",
+      "MUTAZIONE",
+      "EREDITARIA",
+      "ANEMIA FALCIFORME",
+      "ALBINISMO"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": "p060_r1_c2",
+    "word": "ALBINISMO",
+    "taboo": [
+      "MALATTIA",
+      "GENETICA",
+      "EREDITARIA",
+      "MELANINA",
+      "MUTAZIONE"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": "p060_r1_c3",
+    "word": "SINDROME DI DOWN",
+    "taboo": [
+      "TRISOMIA 21",
+      "ANEUPLOIDIA",
+      "CROMOSOMI",
+      "NUMERO",
+      "MALATTIA"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": "p060_r2_c1",
+    "word": "ANEMIA FALCIFORME",
+    "taboo": [
+      "MALATTIA",
+      "GENETICA",
+      "EREDITARIA",
+      "GLOBULO ROSSO",
+      "MUTAZIONE"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": "p060_r2_c2",
+    "word": "DALTONISMO",
+    "taboo": [
+      "MALATTIA",
+      "GENETICA",
+      "EREDITARIA",
+      "COLORI",
+      "VISTA"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": "p060_r2_c3",
+    "word": "EMOFILIA",
+    "taboo": [
+      "MALATTIA",
+      "GENETICA",
+      "EREDITARIA",
+      "SANGUE",
+      "COAGULAZIONE"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": "p060_r3_c1",
+    "word": "SINDROME DI KLINEFELTER",
+    "taboo": [
+      "ANEUPLOIDIA",
+      "CROMOSOMI",
+      "XXY",
+      "MALATTIA",
+      "MASCHIO"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": "p060_r3_c2",
+    "word": "SINDROME DI TURNER",
+    "taboo": [
+      "ANEUPLOIDIA",
+      "CROMOSOMI",
+      "XO",
+      "MALATTIA",
+      "FEMMINA"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": "p060_r3_c3",
+    "word": "BIOTECNOLOGIE",
+    "taboo": [
+      "INGEGNERIA",
+      "GENETICA",
+      "ORGANISMI",
+      "INNOVAZIONE",
+      "LABORATORIO"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": "p060_r4_c1",
+    "word": "SEQUENZIAMENTO DNA",
+    "taboo": [
+      "ORDINE",
+      "BASI AZOTATE",
+      "SANGER",
+      "GENOMA",
+      "NUCLEOTIDI"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": "p060_r4_c2",
+    "word": "SELEZIONE ARTIFICIALE",
+    "taboo": [
+      "RAZZE",
+      "NATURALE",
+      "RIPRODUZIONE",
+      "AGRICOLTURA",
+      "BIOTECNOLOGIE"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": "p060_r4_c3",
+    "word": "INGEGNERIA GENETICA",
+    "taboo": [
+      "BIOTECNOLOGIE",
+      "DNA",
+      "CLONAZIONE",
+      "EDITING",
+      "MEDICINA"
+    ],
+    "sourcePage": 60
+  },
+  {
+    "id": "p062_r1_c1",
+    "word": "CLONAZIONE",
+    "taboo": [
+      "DOLLY",
+      "RIPRODUZIONE",
+      "COPIA",
+      "DNA",
+      "GENETICA"
+    ],
+    "sourcePage": 62
+  },
+  {
+    "id": "p062_r1_c2",
+    "word": "DNA RICOMBINANTE",
+    "taboo": [
+      "PLASMIDE",
+      "GENE",
+      "INGEGNERIA",
+      "OGM",
+      "TECNOLOGIA"
+    ],
+    "sourcePage": 62
+  },
+  {
+    "id": "p062_r1_c3",
+    "word": "VIRUS",
+    "taboo": [
+      "FAGO",
+      "CORONA",
+      "DNA",
+      "RNA",
+      "CAPSIDE"
+    ],
+    "sourcePage": 62
+  },
+  {
+    "id": "p062_r2_c1",
+    "word": "DNA LIGASI",
+    "taboo": [
+      "ENZIMA",
+      "PROTEINA",
+      "LEGAME",
+      "DNA POLIMERASI",
+      "DUPLICAZIONE"
+    ],
+    "sourcePage": 62
+  },
+  {
+    "id": "p062_r2_c2",
+    "word": "ENZIMA DI RESTRIZIONE",
+    "taboo": [
+      "BATTERIO",
+      "DNA",
+      "TAGLIARE",
+      "CRISPR",
+      "GENE"
+    ],
+    "sourcePage": 62
+  },
+  {
+    "id": "p062_r2_c3",
+    "word": "PCR",
+    "taboo": [
+      "CATENA",
+      "POLIMERASI",
+      "DNA",
+      "AMPLIFICAZIONE",
+      "TAQ POLIMERASI"
+    ],
+    "sourcePage": 62
+  },
+  {
+    "id": "p062_r3_c1",
+    "word": "OGM",
+    "taboo": [
+      "ORGANISMO",
+      "GENETICAMENTE",
+      "MODIFICATO",
+      "CISGENICO",
+      "TRANSGENICO"
+    ],
+    "sourcePage": 62
+  },
+  {
+    "id": "p062_r3_c2",
+    "word": "ALBERO GENEALOGICO",
+    "taboo": [
+      "FAMIGLIA",
+      "PARENTELA",
+      "MALATTIA",
+      "EREDITARIETÀ",
+      "GENI"
+    ],
+    "sourcePage": 62
+  },
+  {
+    "id": "p064_r1_c1",
+    "word": "EVOLUZIONE",
+    "taboo": [
+      "DARWIN",
+      "ADATTAMENTO",
+      "CAMBIAMENTO",
+      "NATURALE",
+      "MUTAZIONE"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": "p064_r1_c2",
+    "word": "CREAZIONISMO",
+    "taboo": [
+      "DIO",
+      "TERRA",
+      "ORGANISMI",
+      "EVOLUZIONE",
+      "SPECIE"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": "p064_r1_c3",
+    "word": "CAMBIAMENTO",
+    "taboo": [
+      "ADATTAMENTO",
+      "EVOLUZIONE",
+      "CARATTERI",
+      "TRASFORMAZIONE",
+      "MUTAZIONE"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": "p064_r2_c1",
+    "word": "CHARLES DARWIN",
+    "taboo": [
+      "EVOLUZIONE",
+      "GALAPAGOS",
+      "NATURALISTA",
+      "SELEZIONE",
+      "NATURALE"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": "p064_r2_c2",
+    "word": "SPECIAZIONE",
+    "taboo": [
+      "CAMBIAMENTO",
+      "ALLOPATRICA",
+      "SIMPATRICA",
+      "ISOLAMENTO",
+      "EVOLUZIONE"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": "p064_r2_c3",
+    "word": "BIODIVERSITÀ",
+    "taboo": [
+      "SPECIE",
+      "ECOSISTEMA",
+      "HABITAT",
+      "NATURA",
+      "AMBIENTE"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": "p064_r3_c1",
+    "word": "COMPETIZIONE",
+    "taboo": [
+      "PREDAZIONE",
+      "RISORSE",
+      "SPECIE",
+      "POPOLAZIONE",
+      "LOTTA"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": "p064_r3_c2",
+    "word": "ADATTAMENTO",
+    "taboo": [
+      "AMBIENTE",
+      "EVOLUZIONE",
+      "SELEZIONE",
+      "FAVOREVOLE",
+      "CARATTERE"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": "p064_r3_c3",
+    "word": "SELEZIONE NATURALE",
+    "taboo": [
+      "DARWIN",
+      "ADATTAMENTO",
+      "EVOLUZIONE",
+      "FITNESS",
+      "AMBIENTE"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": "p064_r4_c1",
+    "word": "SOPRAVVIVENZA",
+    "taboo": [
+      "VITA",
+      "NATURA",
+      "LOTTA",
+      "SPECIE",
+      "ESTINZIONE"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": "p064_r4_c2",
+    "word": "VANTAGGIO",
+    "taboo": [
+      "ADATTAMENTO",
+      "EVOLUZIONE",
+      "CARATTERE",
+      "SOPRAVVIVENZA",
+      "AMBIENTE"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": "p064_r4_c3",
+    "word": "SPECIE ALIENA",
+    "taboo": [
+      "ALLOCTONA",
+      "HABITAT",
+      "SCOIATTOLO",
+      "GRANCHIO",
+      "NUTRIA"
+    ],
+    "sourcePage": 64
+  },
+  {
+    "id": "p066_r1_c1",
+    "word": "ALLOCTONA",
+    "taboo": [
+      "SPECIE",
+      "ORGANISMO",
+      "HABITAT",
+      "ALIENA",
+      "TRASPORTO"
+    ],
+    "sourcePage": 66
+  },
+  {
+    "id": "p066_r1_c2",
+    "word": "AUTOCTONA",
+    "taboo": [
+      "SPECIE",
+      "ORGANISMO",
+      "HABITAT",
+      "ECOSISTEMA",
+      "ENDEMICA"
+    ],
+    "sourcePage": 66
+  },
+  {
+    "id": "p066_r1_c3",
+    "word": "FITNESS",
+    "taboo": [
+      "SUCCESSO",
+      "RIPRODUZIONE",
+      "PROLE",
+      "SOPRAVVIVENZA",
+      "POPOLAZIONE"
+    ],
+    "sourcePage": 66
+  },
+  {
+    "id": "p066_r2_c1",
+    "word": "PROLE",
+    "taboo": [
+      "FIGLI",
+      "GENITORI",
+      "FAMIGLIA",
+      "PARENTELA",
+      "RIPRODUZIONE"
+    ],
+    "sourcePage": 66
+  },
+  {
+    "id": "p066_r2_c2",
+    "word": "MELANISMO INDUSTRIALE",
+    "taboo": [
+      "BETULLA",
+      "SELEZIONE",
+      "BISTON BETULARIA",
+      "INQUINAMENTO",
+      "FALENA"
+    ],
+    "sourcePage": 66
+  },
+  {
+    "id": "p066_r2_c3",
+    "word": "COEVOLUZIONE",
+    "taboo": [
+      "SPECIE",
+      "SELEZIONE",
+      "INTERAZIONE",
+      "GENETICA",
+      "MUTAZIONE"
+    ],
+    "sourcePage": 66
+  },
+  {
+    "id": "p066_r3_c3",
+    "word": "ISOLAMENTO GEOGRAFICO",
+    "taboo": [
+      "SPECIAZIONE",
+      "MONTAGNA",
+      "SEPARAZIONE",
+      "HABITAT",
+      "EVOLUZIONE"
+    ],
+    "sourcePage": 66
+  },
+  {
+    "id": "p066_r4_c1",
+    "word": "DIVERGENZA EVOLUTIVA",
+    "taboo": [
+      "SELEZIONE",
+      "OMOLOGIA",
+      "ANALOGIA",
+      "EVOLUZIONE",
+      "CONVERGENZA"
+    ],
+    "sourcePage": 66
+  },
+  {
+    "id": "p066_r4_c2",
+    "word": "CONVERGENZA EVOLUTIVA",
+    "taboo": [
+      "SELEZIONE",
+      "OMOLOGIA",
+      "ANALOGIA",
+      "EVOLUZIONE",
+      "DIVERGENZA"
+    ],
+    "sourcePage": 66
+  },
+  {
+    "id": "p066_r4_c3",
+    "word": "OMOLOGIA",
+    "taboo": [
+      "ANTENATO",
+      "COMUNE",
+      "FUNZIONE",
+      "CARATTERE",
+      "ANALOGIA"
+    ],
+    "sourcePage": 66
+  },
+  {
+    "id": "p068_r1_c1",
+    "word": "ANALOGIA",
+    "taboo": [
+      "ANTENATO",
+      "COMUNE",
+      "FUNZIONE",
+      "CARATTERE",
+      "OMOLOGIA"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": "p068_r1_c2",
+    "word": "ESTINZIONE",
+    "taboo": [
+      "DINOSAURI",
+      "METEORITE",
+      "SPECIE",
+      "MASSA",
+      "SCOMPARSA"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": "p068_r1_c3",
+    "word": "CLASSIFICARE",
+    "taboo": [
+      "SPECIE",
+      "CATGORIE",
+      "ORDINARE",
+      "RAGGRUPPARE",
+      "TASSONOMIA"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": "p068_r2_c1",
+    "word": "SISTEMATICA",
+    "taboo": [
+      "CLASSIFICARE",
+      "NOMENCLATURA",
+      "SPECIE",
+      "ORGANISMI",
+      "TASSONOMIA"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": "p068_r2_c2",
+    "word": "TASSONOMIA",
+    "taboo": [
+      "SISTEMATICA",
+      "CLASSIFICAZIONE",
+      "EVOLUZIONE",
+      "GERARCHIA",
+      "FILOGENESI"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": "p068_r2_c3",
+    "word": "ECOLOGIA",
+    "taboo": [
+      "AMBIENTE",
+      "HABITAT",
+      "ORGANISMI",
+      "ECOSISTEMA",
+      "NATURA"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": "p068_r3_c1",
+    "word": "CARLO LINNEO",
+    "taboo": [
+      "NOMENCLATURA",
+      "BINOMIA",
+      "SPECIE",
+      "TASSONOMIA",
+      "CLASSIFICARE"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": "p068_r3_c2",
+    "word": "NOMENCLATURA BINOMIA",
+    "taboo": [
+      "LINNEO",
+      "GENERE",
+      "SPECIE",
+      "DUE",
+      "LATINO"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": "p068_r3_c3",
+    "word": "SPECIE",
+    "taboo": [
+      "BIOLOGIA",
+      "ORGANISMO",
+      "GENERE",
+      "BIODIVERISITÀ",
+      "PROLE"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": "p068_r4_c1",
+    "word": "ORDINE",
+    "taboo": [
+      "CATEGORIA",
+      "TASSONOMIA",
+      "SPECIE",
+      "GENERE",
+      "FAMIGLIA"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": "p068_r4_c2",
+    "word": "CLASSE",
+    "taboo": [
+      "CATEGORIA",
+      "TASSONOMIA",
+      "SPECIE",
+      "GENERE",
+      "FAMIGLIA"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": "p068_r4_c3",
+    "word": "FAMIGLIA",
+    "taboo": [
+      "CATEGORIA",
+      "TASSONOMIA",
+      "SPECIE",
+      "GENERE",
+      "ORDINE"
+    ],
+    "sourcePage": 68
+  },
+  {
+    "id": "p070_r1_c1",
+    "word": "GENERE",
+    "taboo": [
+      "CATEGORIA",
+      "TASSONOMIA",
+      "SPECIE",
+      "ORDINE",
+      "FAMIGLIA"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": "p070_r1_c2",
+    "word": "PHYLUM",
+    "taboo": [
+      "CATEGORIA",
+      "TASSONOMIA",
+      "SPECIE",
+      "GENERE",
+      "FAMIGLIA"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": "p070_r1_c3",
+    "word": "REGNO",
+    "taboo": [
+      "CATEGORIA",
+      "TASSONOMIA",
+      "SPECIE",
+      "DOMINIO",
+      "PHYLUM"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": "p070_r2_c1",
+    "word": "DOMINIO",
+    "taboo": [
+      "CATEGORIA",
+      "TASSONOMIA",
+      "SPECIE",
+      "GENERE",
+      "FAMIGLIA"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": "p070_r2_c2",
+    "word": "ARCHEA",
+    "taboo": [
+      "DOMINIO",
+      "EUCARIOTI",
+      "PROCARIOTI",
+      "CATEGORIA",
+      "TASSONOMIA"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": "p070_r2_c3",
+    "word": "PARENTELA",
+    "taboo": [
+      "PROLE",
+      "GENITORI",
+      "EREDITARIETÀ",
+      "RELAZIONE",
+      "FAMIGLIA"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": "p070_r3_c1",
+    "word": "PARASSITA",
+    "taboo": [
+      "BATTERIO",
+      "PATOGENO",
+      "MALATTIA",
+      "OSPITE",
+      "VIRUS"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": "p070_r3_c2",
+    "word": "CAPSIDE",
+    "taboo": [
+      "VIRUS",
+      "INVOLUCRO",
+      "PROTEINE",
+      "ADESIONE",
+      "DNA"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": "p070_r3_c3",
+    "word": "UBIQUITARIO",
+    "taboo": [
+      "OVUNQUE",
+      "ESSERE",
+      "LUOGO",
+      "ECOLOGIA",
+      "AMBIENTE"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": "p070_r4_c1",
+    "word": "ETEROTROFO",
+    "taboo": [
+      "ORGANISMO",
+      "CIBO",
+      "NUTRIENTI",
+      "ANIMALI",
+      "SINTESI"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": "p070_r4_c2",
+    "word": "AUTOTROFO",
+    "taboo": [
+      "ORGANISMI",
+      "FOTOSINTESI",
+      "ZUCCHERI",
+      "VEGETALI",
+      "SINTESI"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": "p070_r4_c3",
+    "word": "DECOMPOSITORI",
+    "taboo": [
+      "ORGANISMI",
+      "FUNGHI",
+      "BATTERI",
+      "NATURA",
+      "MORTE"
+    ],
+    "sourcePage": 70
+  },
+  {
+    "id": "p072_r1_c1",
+    "word": "SPORA",
+    "taboo": [
+      "FUNGO",
+      "BATTERIO",
+      "SOPRAVVIVENZA",
+      "GAMETE",
+      "RIPRODUZIONE"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": "p072_r1_c2",
+    "word": "CIANOBATTERIO",
+    "taboo": [
+      "FOTOSINTESI",
+      "LUCE",
+      "LICHENE",
+      "AUTOTROFO",
+      "CLOROFILLA"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": "p072_r1_c3",
+    "word": "ALOFILO",
+    "taboo": [
+      "SALE",
+      "ORGANISMO",
+      "BATTERIO",
+      "ARCHEA",
+      "ADATTATO"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": "p072_r2_c1",
+    "word": "TERMOFILO",
+    "taboo": [
+      "ORGANISMO",
+      "BATTERIO",
+      "CALORE",
+      "TEMPERATURA",
+      "ARCHEA"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": "p072_r2_c2",
+    "word": "PROTISTI",
+    "taboo": [
+      "GRUPPO",
+      "REGNO",
+      "EUCARIOTI",
+      "PLURICELLULARI",
+      "ORGANISMI"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": "p072_r2_c3",
+    "word": "FUNGHI",
+    "taboo": [
+      "REGNO",
+      "MICELIO",
+      "IFE",
+      "CHITINA",
+      "ETEROTROFI"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": "p072_r3_c1",
+    "word": "ANIMALI",
+    "taboo": [
+      "REGNO",
+      "VERTEBRATI",
+      "EUCARIOTI",
+      "ORGANISMI",
+      "MAMMIFERI"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": "p072_r3_c2",
+    "word": "PIANTE",
+    "taboo": [
+      "REGNO",
+      "FOTOSINTESI",
+      "VEGETALI",
+      "FOGLIE",
+      "RADICI"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": "p072_r3_c3",
+    "word": "ALGA",
+    "taboo": [
+      "FOTOSINTESI",
+      "VERDE",
+      "ROSSA",
+      "BRUNA",
+      "ACQUA"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": "p072_r4_c1",
+    "word": "FORAMINIFERI",
+    "taboo": [
+      "PROTOZOI",
+      "CARBONATO DI CALCIO",
+      "GUSCIO",
+      "SEDIMENTI",
+      "BENTONICI"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": "p072_r4_c2",
+    "word": "RADIOLARI",
+    "taboo": [
+      "PROTOZOI",
+      "SILICE",
+      "GUSCIO",
+      "SEDIMENTI",
+      "PLANCTON"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": "p072_r4_c3",
+    "word": "DIATOMEE",
+    "taboo": [
+      "ALGHE",
+      "UNICELLULARI",
+      "ACQUA",
+      "FOTOSINTESI",
+      "PLANCTON"
+    ],
+    "sourcePage": 72
+  },
+  {
+    "id": "p074_r1_c1",
+    "word": "AMEBA",
+    "taboo": [
+      "UNICELLULARE",
+      "PSEUDOPODI",
+      "PROTOZOO",
+      "PROTISTA",
+      "ORGANISMO"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": "p074_r1_c2",
+    "word": "LIEVITO",
+    "taboo": [
+      "FUNGO",
+      "FERMENTAZIONE",
+      "ANIDRIDE CARBONICA",
+      "PANE",
+      "BIRRA"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": "p074_r1_c3",
+    "word": "SAPROFITA",
+    "taboo": [
+      "NUTRIRSI",
+      "FUNGO",
+      "MORTE",
+      "ORGANISMO",
+      "BATTERIO"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": "p074_r2_c1",
+    "word": "LICHENE",
+    "taboo": [
+      "ALGA",
+      "SIMBIOSI",
+      "FUNGO",
+      "CIANOBATTERIO",
+      "PIONIERE"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": "p074_r2_c2",
+    "word": "MICORRIZA",
+    "taboo": [
+      "FUNGO",
+      "RADICE",
+      "SIMBIOSI",
+      "PIANTA",
+      "ASSORBIMENTO"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": "p074_r2_c3",
+    "word": "MICELIO",
+    "taboo": [
+      "FUNGO",
+      "IFE",
+      "APPARATO",
+      "FILAMENTI",
+      "CORPO"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": "p074_r3_c1",
+    "word": "IFE",
+    "taboo": [
+      "FUNGO",
+      "MICELIO",
+      "APPARATO",
+      "FILAMENTI",
+      "TERRENO"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": "p074_r3_c2",
+    "word": "BRIOFITE",
+    "taboo": [
+      "PIANTE",
+      "MUSCHI",
+      "EPATICHE",
+      "VASCOLARE",
+      "GRUPPO"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": "p074_r3_c3",
+    "word": "PTERIDOFITE",
+    "taboo": [
+      "PIANTE",
+      "FELCE",
+      "VASCOLARE",
+      "EQUISETI",
+      "LICOPODI"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": "p074_r4_c1",
+    "word": "GIMNOSPERME",
+    "taboo": [
+      "PIANTE",
+      "SEME",
+      "AGHIFORMI",
+      "PINI",
+      "ABETI"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": "p074_r4_c2",
+    "word": "ANGIOSPERME",
+    "taboo": [
+      "PIANTE",
+      "FIORE",
+      "FRUTTO",
+      "SEME",
+      "GRUPPO"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": "p074_r4_c3",
+    "word": "FOGLIA",
+    "taboo": [
+      "STOMI",
+      "FOTOSINTESI",
+      "CLOROFILLA",
+      "PIANTA",
+      "PICCIOLO"
+    ],
+    "sourcePage": 74
+  },
+  {
+    "id": "p076_r1_c1",
+    "word": "FUSTO",
+    "taboo": [
+      "PIANTA",
+      "LEGNO",
+      "RADICI",
+      "FOGLIE",
+      "ALBERO"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": "p076_r1_c2",
+    "word": "RADICE",
+    "taboo": [
+      "PIANTA",
+      "ACQUA",
+      "TERRENO",
+      "ASSORBIRE",
+      "ALBERO"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": "p076_r1_c3",
+    "word": "FIORE",
+    "taboo": [
+      "SEME",
+      "FRUTTO",
+      "ANGIOSPERME",
+      "PIANTA",
+      "PETALI"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": "p076_r2_c1",
+    "word": "FRUTTO",
+    "taboo": [
+      "SEME",
+      "ALBERO",
+      "FIORE",
+      "BANANA",
+      "MELA"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": "p076_r2_c2",
+    "word": "XILEMA",
+    "taboo": [
+      "ALBERO",
+      "TESSUTO",
+      "RADICI",
+      "ACQUA",
+      "TRASPORTO"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": "p076_r2_c3",
+    "word": "FLOEMA",
+    "taboo": [
+      "ALBERO",
+      "TESSUTO",
+      "RADICI",
+      "ZUCCHERI",
+      "TRASPORTO"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": "p076_r3_c1",
+    "word": "STOMA",
+    "taboo": [
+      "FORO",
+      "TRASPIRAZIONE",
+      "FOGLIA",
+      "GAS",
+      "PIANTA"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": "p076_r3_c2",
+    "word": "PETALO",
+    "taboo": [
+      "FIORE",
+      "SEPALO",
+      "COROLLA",
+      "STAME",
+      "POLLINE"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": "p076_r3_c3",
+    "word": "PISTILLO",
+    "taboo": [
+      "STAME",
+      "FIORE",
+      "STIGMA",
+      "POLLINE",
+      "ANTERA"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": "p076_r4_c1",
+    "word": "ANTERA",
+    "taboo": [
+      "STAME",
+      "POLLINE",
+      "PISTILLO",
+      "FIORE",
+      "PETALO"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": "p076_r4_c2",
+    "word": "POLLINE",
+    "taboo": [
+      "STAME",
+      "ANTERA",
+      "PISTILLO",
+      "FIORE",
+      "PETALO"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": "p076_r4_c3",
+    "word": "STAME",
+    "taboo": [
+      "FILAMENTO",
+      "ANTERA",
+      "PISTILLO",
+      "FIORE",
+      "POLLINE"
+    ],
+    "sourcePage": 76
+  },
+  {
+    "id": "p078_r1_c1",
+    "word": "SEPALO",
+    "taboo": [
+      "PETALO",
+      "FIORE",
+      "FOGLIA",
+      "CALICE",
+      "COROLLA"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": "p078_r1_c2",
+    "word": "SEME",
+    "taboo": [
+      "FRUTTO",
+      "GERMINARE",
+      "ACQUA",
+      "TERRA",
+      "FIORE"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": "p078_r1_c3",
+    "word": "ASIMMETRIA",
+    "taboo": [
+      "GEOMETRIA",
+      "DIVERSO",
+      "PIANO",
+      "DIFFERENZA",
+      "SQUILIBRIO"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": "p078_r2_c1",
+    "word": "SIMMETRIA",
+    "taboo": [
+      "PIANO",
+      "RAGGIATA",
+      "BILATERALE",
+      "CORPO",
+      "ORGANIZZAZIONE"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": "p078_r2_c2",
+    "word": "OMEOTERMIA",
+    "taboo": [
+      "TEMPERATURA",
+      "CORPO",
+      "CALORE",
+      "COSTANTE",
+      "INTERNO"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": "p078_r2_c3",
+    "word": "INVERTEBRATI",
+    "taboo": [
+      "ANIMALI",
+      "COLONNA VERTEBRALE",
+      "ARTROPODI",
+      "CELENTERATI",
+      "MOLLUSCHI"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": "p078_r3_c1",
+    "word": "VERTEBRATI",
+    "taboo": [
+      "ANIMALI",
+      "COLONNA VERTEBRALE",
+      "NOTOCORDA",
+      "SOSTEGNO",
+      "SVILUPPO"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": "p078_r3_c2",
+    "word": "PORIFERO",
+    "taboo": [
+      "SPUGNA",
+      "MARINO",
+      "FONDALE",
+      "SCHELETRO",
+      "FORI"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": "p078_r3_c3",
+    "word": "MEDUSA",
+    "taboo": [
+      "TENTACOLI",
+      "URTICANTE",
+      "CNIDARIO",
+      "POLIPO",
+      "CELENTERATO"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": "p078_r4_c1",
+    "word": "POLIPO",
+    "taboo": [
+      "MEDUSA",
+      "CNIDARIO",
+      "COLONIA",
+      "GEMMAZIONE",
+      "FONDALE"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": "p078_r4_c2",
+    "word": "CORALLO",
+    "taboo": [
+      "BARRIERA",
+      "ANTOZOI",
+      "CARBONATO DI CALCIO",
+      "SBIANCAMENTO",
+      "POLIPO"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": "p078_r4_c3",
+    "word": "ESOSCHELETRO",
+    "taboo": [
+      "GUSCIO",
+      "CHITINA",
+      "INSETTO",
+      "FUNGO",
+      "CROSTACEO"
+    ],
+    "sourcePage": 78
+  },
+  {
+    "id": "p080_r1_c1",
+    "word": "PLATELMINTE",
+    "taboo": [
+      "VERME",
+      "PIATTO",
+      "TENIA",
+      "ANIMALE",
+      "PARASSITA"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": "p080_r1_c2",
+    "word": "NEMATODE",
+    "taboo": [
+      "VERME",
+      "CILINDRICO",
+      "ANIMALE",
+      "PARASSITA",
+      "INVERTEBRATO"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": "p080_r1_c3",
+    "word": "MOLLUSCO",
+    "taboo": [
+      "CEFALOPODE",
+      "GASTEROPODE",
+      "BIVALVE",
+      "ANIMALE",
+      "MARINO"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": "p080_r2_c1",
+    "word": "CONCHIGLIA",
+    "taboo": [
+      "GUSCIO",
+      "BIVALVE",
+      "CARBONATO DI CALCIO",
+      "ESOSCHELETRO",
+      "MOLLUSCO"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": "p080_r2_c2",
+    "word": "GASTEROPODE",
+    "taboo": [
+      "CHIOCCIOLA",
+      "LUMACA",
+      "MOLLUSCO",
+      "GUSCIO",
+      "CONCHIGLIA"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": "p080_r2_c3",
+    "word": "BIVALVE",
+    "taboo": [
+      "CONCHIGLIA",
+      "MOLLUSCO",
+      "COZZA",
+      "VONGOLA",
+      "PIEDE"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": "p080_r3_c1",
+    "word": "CEFALOPODE",
+    "taboo": [
+      "POLPO",
+      "SEPPIA",
+      "CALAMARO",
+      "MOLLUSCO",
+      "TENTACOLI"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": "p080_r3_c2",
+    "word": "ANELLIDE",
+    "taboo": [
+      "VERME",
+      "LOMBRICO",
+      "METAMERIA",
+      "ANIMALE",
+      "INVERTEBRATO"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": "p080_r3_c3",
+    "word": "ARTROPODE",
+    "taboo": [
+      "INSETTI",
+      "ARACNIDI",
+      "ESOSCHELETRO",
+      "INVERTEBRATO",
+      "ANIMALE"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": "p080_r4_c1",
+    "word": "MUTA",
+    "taboo": [
+      "INSETTO",
+      "SERPENTE",
+      "PELLE",
+      "RICAMBIO",
+      "ESOSCHELETRO"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": "p080_r4_c2",
+    "word": "INSETTO",
+    "taboo": [
+      "ESAPODE",
+      "ZAMPE",
+      "ANTENNE",
+      "ESOSCHELETRO",
+      "ARTROPODE"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": "p080_r4_c3",
+    "word": "ECHINODERMA",
+    "taboo": [
+      "STELLA MARINA",
+      "OLOTURIA",
+      "RICCIO DI MARE",
+      "MARINO",
+      "ANIMALE"
+    ],
+    "sourcePage": 80
+  },
+  {
+    "id": "p082_r1_c1",
+    "word": "ARACNIDE",
+    "taboo": [
+      "ACARO",
+      "RAGNO",
+      "SCORPIONE",
+      "ARTROPODE",
+      "ZECCA"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": "p082_r1_c2",
+    "word": "MIRIAPODE",
+    "taboo": [
+      "ZAMPE",
+      "MILLEPIEDE",
+      "ARTROPODE",
+      "CENTOPIEDE",
+      "SCOLOPENDRA"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": "p082_r1_c3",
+    "word": "CROSTACEO",
+    "taboo": [
+      "ARTROPODE",
+      "GRANCHIO",
+      "ESOSCHELETRO",
+      "GAMBERO",
+      "ASTICE"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": "p082_r2_c1",
+    "word": "STELLA MARINA",
+    "taboo": [
+      "ECHINODERMA",
+      "FONDALE",
+      "SIMMETRIA",
+      "RAGGIATA",
+      "INVERTEBRATO"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": "p082_r2_c2",
+    "word": "RICCIO DI MARE",
+    "taboo": [
+      "ECHINODERMA",
+      "SPINE",
+      "SIMMETRIA",
+      "RAGGIATA",
+      "INVERTEBRATO"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": "p082_r2_c3",
+    "word": "OLOTURIA",
+    "taboo": [
+      "ECHINODERMA",
+      "CETRIOLO DI MARE",
+      "FONDALE",
+      "DETRITIVORO",
+      "INVERTEBRATO"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": "p082_r3_c1",
+    "word": "ANTENNE",
+    "taboo": [
+      "INSETTI",
+      "RICEZIONE",
+      "PERCEZIONE",
+      "RADIO",
+      "TESTA"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": "p082_r3_c2",
+    "word": "ZAMPE",
+    "taboo": [
+      "ANIMALE",
+      "ARTI",
+      "APPENDICI",
+      "CAMMINARE",
+      "MOVIMENTO"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": "p082_r3_c3",
+    "word": "ALI",
+    "taboo": [
+      "VOLARE",
+      "UCCELLO",
+      "INSETTO",
+      "PIUME",
+      "SBATTERE"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": "p082_r4_c1",
+    "word": "CORDATI",
+    "taboo": [
+      "VERTEBRATI",
+      "NOTOCORDA",
+      "PHYLUM",
+      "COLONNA VERTEBRALE",
+      "ANIMALI"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": "p082_r4_c2",
+    "word": "NOTOCORDA",
+    "taboo": [
+      "VERTEBRATI",
+      "ACQUA",
+      "COLONNA VERTEBRALE",
+      "SVILUPPO",
+      "EMBRIONE"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": "p082_r4_c3",
+    "word": "COLONNA VERTEBRALE",
+    "taboo": [
+      "NOTOCORDA",
+      "VERTEBRATI",
+      "SOSTEGNO",
+      "SCHIENA",
+      "DORSO"
+    ],
+    "sourcePage": 82
+  },
+  {
+    "id": "p084_r1_c1",
+    "word": "ETEROTERMIA",
+    "taboo": [
+      "TEMPERATURA",
+      "INTERNO",
+      "CORPO",
+      "CALORE",
+      "SOLE"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": "p084_r1_c2",
+    "word": "ANFIBIO",
+    "taboo": [
+      "RANA",
+      "GIRINO",
+      "SALAMANDRA",
+      "STAGNO",
+      "TRISTONE"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": "p084_r1_c3",
+    "word": "PESCE",
+    "taboo": [
+      "VERTEBRATO",
+      "NUOTARE",
+      "PINNE",
+      "BRANCHIE",
+      "ACQUA"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": "p084_r2_c1",
+    "word": "BRANCHIE",
+    "taboo": [
+      "RESPIRARE",
+      "PESCE",
+      "ACQUA",
+      "OSSIGENO",
+      "POLMONI"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": "p084_r2_c2",
+    "word": "VESCICA NATATORIA",
+    "taboo": [
+      "PESCE",
+      "GAS",
+      "GALLEGGIARE",
+      "NUOTARE",
+      "RIEMPIRE"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": "p084_r2_c3",
+    "word": "SCAGLIE",
+    "taboo": [
+      "PESCE",
+      "PELLE",
+      "CORPO",
+      "RIVESTIMENTO",
+      "COLORATE"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": "p084_r3_c1",
+    "word": "PESCE OSSEO",
+    "taboo": [
+      "PINNE",
+      "SCHELETRO",
+      "TONNO",
+      "CARPA",
+      "SALMONE"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": "p084_r3_c2",
+    "word": "PESCE CARTILAGINEO",
+    "taboo": [
+      "PINNE",
+      "SCHELETRO",
+      "SQUALO",
+      "RAZZA",
+      "TORPEDINE"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": "p084_r3_c3",
+    "word": "URODELO",
+    "taboo": [
+      "SALAMANDRA",
+      "CODA",
+      "ANFIBIO",
+      "ACQUA",
+      "TRITONE"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": "p084_r4_c1",
+    "word": "ANURO",
+    "taboo": [
+      "ANFIBIO",
+      "RANA",
+      "ROSPO",
+      "GIRINO",
+      "ACQUA"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": "p084_r4_c2",
+    "word": "RETTILE",
+    "taboo": [
+      "SERPENTE",
+      "COCCODRILLO",
+      "LUCERTOLA",
+      "ANIMALE",
+      "TARTARUGA"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": "p084_r4_c3",
+    "word": "SQUAME",
+    "taboo": [
+      "RETTILE",
+      "PELLE",
+      "SERPENTE",
+      "RIVESTIMENTO",
+      "COCCODRILLO"
+    ],
+    "sourcePage": 84
+  },
+  {
+    "id": "p086_r1_c1",
+    "word": "UOVA",
+    "taboo": [
+      "GALLINA",
+      "TUORLO",
+      "ALBUME",
+      "QUAGLIA",
+      "COVARE"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "id": "p086_r1_c2",
+    "word": "UCCELLO",
+    "taboo": [
+      "VOLARE",
+      "PIUME",
+      "PENNE",
+      "ALI",
+      "BECCO"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "id": "p086_r1_c3",
+    "word": "PIUME",
+    "taboo": [
+      "PENNE",
+      "UCCELLO",
+      "VOLARE",
+      "ALI",
+      "BECCO"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "id": "p086_r2_c1",
+    "word": "MAMMIFERO",
+    "taboo": [
+      "ALLATTARE",
+      "RODITORE",
+      "MARSUPIALE",
+      "PRIMATE",
+      "CUCCIOLI"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "id": "p086_r2_c2",
+    "word": "MAMMELLE",
+    "taboo": [
+      "GHIANDOLE",
+      "LATTE",
+      "ALLATTARE",
+      "CUCCIOLI",
+      "CRESCITA"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "id": "p086_r2_c3",
+    "word": "ALLATTAMENTO",
+    "taboo": [
+      "MAMMELLE",
+      "MAMMIFERO",
+      "CUCCIOLI",
+      "CRESCERE",
+      "MAMMA"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "id": "p086_r3_c1",
+    "word": "PELI",
+    "taboo": [
+      "PELLICCIA",
+      "MANTO",
+      "COPRIRE",
+      "MAMMIFERO",
+      "CALORE"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "id": "p086_r3_c2",
+    "word": "PELLICCIA",
+    "taboo": [
+      "PELI",
+      "PELLE",
+      "CALORE",
+      "MAMMIFERO",
+      "COPRIRE"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "id": "p086_r3_c3",
+    "word": "MARSUPIALE",
+    "taboo": [
+      "CANGURO",
+      "MAMMIFERO",
+      "KOALA",
+      "TASCA",
+      "OPOSSUM"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "id": "p086_r4_c1",
+    "word": "RODITORE",
+    "taboo": [
+      "MAMMIFERO",
+      "TOPO",
+      "DENTI",
+      "CRICETO",
+      "CASTORO"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "id": "p086_r4_c2",
+    "word": "CARNIVORO",
+    "taboo": [
+      "DENTI",
+      "DIETA",
+      "ANIMALE",
+      "PREDATORE",
+      "ERBIVORO"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "id": "p086_r4_c3",
+    "word": "ERBIVORO",
+    "taboo": [
+      "DIETA",
+      "VEGETALI",
+      "ANIMALE",
+      "PRESA",
+      "CARNIVORO"
+    ],
+    "sourcePage": 86
+  },
+  {
+    "id": "p088_r1_c1",
+    "word": "CETACEO",
+    "taboo": [
+      "BALENA",
+      "MAMMIFERO",
+      "ORCA",
+      "DELFINO",
+      "NUOTARE"
+    ],
+    "sourcePage": 88
+  },
+  {
+    "id": "p088_r1_c2",
+    "word": "PRIMATE",
+    "taboo": [
+      "MAMMIFERO",
+      "SCIMMIA",
+      "SCIMPANZÈ",
+      "GORILLA",
+      "BONOBO"
+    ],
+    "sourcePage": 88
+  },
+  {
+    "id": "p088_r1_c3",
+    "word": "OMINIDE",
+    "taboo": [
+      "HOMO",
+      "AUSTRALOPITECO",
+      "ANTENATO",
+      "EVOLUZIONE",
+      "PREISTORIA"
+    ],
+    "sourcePage": 88
+  },
+  {
+    "id": "p088_r2_c1",
+    "word": "HOMO SAPIENS",
+    "taboo": [
+      "UOMO",
+      "CERVELLO",
+      "CAMMINARE",
+      "LINGUAGGIO",
+      "EVOLUZIONE"
+    ],
+    "sourcePage": 88
+  },
+  {
+    "id": "p088_r2_c2",
+    "word": "HOMO ABILIS",
+    "taboo": [
+      "UOMO",
+      "PREISTORIA",
+      "STRUMENTI",
+      "ANTENATO",
+      "EVOLUZIONE"
+    ],
+    "sourcePage": 88
+  },
+  {
+    "id": "p088_r2_c3",
+    "word": "HOMO ERECTUS",
+    "taboo": [
+      "UOMO",
+      "CAMMINARE",
+      "ANTENATO",
+      "EVOLUZIONE",
+      "PREISTORIA"
+    ],
+    "sourcePage": 88
+  },
+  {
+    "id": "p090_r1_c1",
+    "word": "RISORSA",
+    "taboo": [
+      "DISPONIBILITÀ",
+      "CIBO",
+      "FONTE",
+      "HABITAT",
+      "ENERGETICA"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "id": "p090_r1_c2",
+    "word": "AMBIENTE",
+    "taboo": [
+      "HABITAT",
+      "ADATTAMENTO",
+      "NATURA",
+      "PAESAGGIO",
+      "ECOLOGIA"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "id": "p090_r1_c3",
+    "word": "ORGANISMO",
+    "taboo": [
+      "ANIMALE",
+      "VIVENTE",
+      "CELLULA",
+      "UNICELLULARE",
+      "PLURICELLULARE"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "id": "p090_r2_c1",
+    "word": "POPOLAZIONE",
+    "taboo": [
+      "INDIVIDUI",
+      "COMUNITÀ",
+      "GRUPPO",
+      "SPECIE",
+      "HABITAT"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "id": "p090_r2_c2",
+    "word": "COMUNITÀ",
+    "taboo": [
+      "POPOLAZIONE",
+      "SPECIE",
+      "HABITAT",
+      "VIVERE",
+      "ECOSISTEMA"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "id": "p090_r2_c3",
+    "word": "ABIOTICO",
+    "taboo": [
+      "ECOSISTEMA",
+      "ARIA",
+      "CLIMA",
+      "ROCCE",
+      "FATTORE"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "id": "p090_r3_c1",
+    "word": "BIOTOPO",
+    "taboo": [
+      "AMBIENTE",
+      "ECOSISTEMA",
+      "BIOCENOSI",
+      "HABITAT",
+      "AREA"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "id": "p090_r3_c2",
+    "word": "BIOCENOSI",
+    "taboo": [
+      "AMBIENTE",
+      "ORGANISMI",
+      "ECOSISTEMA",
+      "COMUNITÀ",
+      "HABITAT"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "id": "p090_r3_c3",
+    "word": "FATTORE LIMITANTE",
+    "taboo": [
+      "CIBO",
+      "AMBIENTE",
+      "HABITAT",
+      "CRESCITA",
+      "POPOLAZIONE"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "id": "p090_r4_c1",
+    "word": "NICCHIA",
+    "taboo": [
+      "RUOLO",
+      "ECOLOGICA",
+      "ORGANISMO",
+      "HABITAT",
+      "AMBIENTE"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "id": "p090_r4_c2",
+    "word": "PRODUTTORI",
+    "taboo": [
+      "VEGETALI",
+      "FOTOSINTESI",
+      "BIOMASSA",
+      "CATENA",
+      "ALIMENTARE"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "id": "p090_r4_c3",
+    "word": "CONSUMATORI",
+    "taboo": [
+      "CATENA",
+      "ALIMENTARE",
+      "CARNIVORI",
+      "ERBIVORI",
+      "PRIMARI"
+    ],
+    "sourcePage": 90
+  },
+  {
+    "id": "p092_r1_c1",
+    "word": "CATENA ALIMENTARE",
+    "taboo": [
+      "ANIMALI",
+      "CONSUMATORI",
+      "PRODUTTORI",
+      "RETE",
+      "CIBO"
+    ],
+    "sourcePage": 92
+  },
+  {
+    "id": "p092_r1_c2",
+    "word": "ENERGIA",
+    "taboo": [
+      "SOLE",
+      "CIBO",
+      "FORZA",
+      "TRASFORMAZIONE",
+      "PRODURRE"
+    ],
+    "sourcePage": 92
+  },
+  {
+    "id": "p092_r1_c3",
+    "word": "PREDATORE",
+    "taboo": [
+      "CARNIVORO",
+      "CONSUMATORE",
+      "CACCIARE",
+      "UCCIDERE",
+      "CIBARSI"
+    ],
+    "sourcePage": 92
+  },
+  {
+    "id": "p092_r2_c1",
+    "word": "PREDA",
+    "taboo": [
+      "ERBIVORO",
+      "CACCIARE",
+      "FUGGIRE",
+      "CARNIVORO",
+      "CIBO"
+    ],
+    "sourcePage": 92
+  },
+  {
+    "id": "p092_r2_c2",
+    "word": "BIOMASSA",
+    "taboo": [
+      "ORGANISMI",
+      "AMBIENTE",
+      "PESO",
+      "QUANTITÀ",
+      "ENERGIA"
+    ],
+    "sourcePage": 92
+  },
+  {
+    "id": "p092_r2_c3",
+    "word": "HABITAT",
+    "taboo": [
+      "AMBIENTE",
+      "ECOSISTEMA",
+      "NATURA",
+      "ORGANISMI",
+      "VIVERE"
+    ],
+    "sourcePage": 92
+  },
+  {
+    "id": "p092_r3_c1",
+    "word": "SIMBIOSI",
+    "taboo": [
+      "CONVIVERE",
+      "MUTUALISMO",
+      "PARASSITISMO",
+      "COMMENSALISMO",
+      "RELAZIONE"
+    ],
+    "sourcePage": 92
+  },
+  {
+    "id": "p092_r3_c2",
+    "word": "PARASSITISMO",
+    "taboo": [
+      "SIMBIOSI",
+      "SVANTAGGIO",
+      "MALATTIA",
+      "OSPITE",
+      "OBBLIGATO"
+    ],
+    "sourcePage": 92
+  },
+  {
+    "id": "p092_r3_c3",
+    "word": "COMMENSALISMO",
+    "taboo": [
+      "SIMBIOSI",
+      "VANTAGGIO",
+      "CIBARSI",
+      "PROTEZIONE",
+      "RELAZIONE"
+    ],
+    "sourcePage": 92
+  },
+  {
+    "id": "p092_r4_c1",
+    "word": "MUTUALISMO",
+    "taboo": [
+      "SIMBIOSI",
+      "VANTAGGIO",
+      "RECIPROCO",
+      "CONVIVENZA",
+      "PROTEZIONE"
+    ],
+    "sourcePage": 92
+  },
+  {
+    "id": "p092_r4_c2",
+    "word": "MIMETISMO",
+    "taboo": [
+      "PROTEZIONE",
+      "DIFESA",
+      "NASCONDERSI",
+      "CAMALEONTE",
+      "IMITARE"
+    ],
+    "sourcePage": 92
+  },
+  {
+    "id": "p094_r1_c1",
+    "word": "ATOMO",
+    "taboo": [
+      "PARTICELLA",
+      "MATERIA",
+      "NEUTRONI",
+      "ELETTRONI",
+      "PROTONI"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "id": "p094_r1_c2",
+    "word": "PROTONE",
+    "taboo": [
+      "ATOMO",
+      "POSITIVO",
+      "NEUTRONI",
+      "ELETTRONI",
+      "NUCLEO"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "id": "p094_r1_c3",
+    "word": "ELETTRONE",
+    "taboo": [
+      "ATOMO",
+      "NEGATIVO",
+      "NEUTRONI",
+      "PROTONI",
+      "ORBITALE"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "id": "p094_r2_c1",
+    "word": "NEUTRONE",
+    "taboo": [
+      "ATOMO",
+      "NUCLEO",
+      "PROTONI",
+      "ELETTRONI",
+      "ISOTOPI"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "id": "p094_r2_c2",
+    "word": "ORBITALE",
+    "taboo": [
+      "ELETTRONE",
+      "ECCITAZIONE",
+      "ATOMO",
+      "LIVELLO",
+      "NUMERO QUANTICO"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "id": "p094_r2_c3",
+    "word": "ISOTOPO",
+    "taboo": [
+      "NEUTRONI",
+      "ELEMENTO",
+      "ATOMO",
+      "MASSA",
+      "NUMERO"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "id": "p094_r3_c1",
+    "word": "FOTONE",
+    "taboo": [
+      "LUCE",
+      "QUANTI",
+      "PARTICELLA",
+      "ONDA",
+      "ENERGIA"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "id": "p094_r3_c2",
+    "word": "QUANTO",
+    "taboo": [
+      "PLANCK",
+      "ENERGIA",
+      "PACCHETTO",
+      "LUCE",
+      "ELETTRONE"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "id": "p094_r3_c3",
+    "word": "MOLECOLA",
+    "taboo": [
+      "ATOMO",
+      "LEGAME",
+      "COMPOSTO",
+      "REAZIONE",
+      "MATERIA"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "id": "p094_r4_c1",
+    "word": "TAVOLA PERIODICA",
+    "taboo": [
+      "MENDELEEV",
+      "GRUPPI",
+      "PERIODI",
+      "ELEMENTI",
+      "NUMERO ATOMICO"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "id": "p094_r4_c2",
+    "word": "METALLI",
+    "taboo": [
+      "LUCENTEZZA",
+      "MALLEABILITÀ",
+      "DUTTILITÀ",
+      "CONDUTTORI",
+      "ELETTRICITÀ"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "id": "p094_r4_c3",
+    "word": "NON METALLI",
+    "taboo": [
+      "OPACITÀ",
+      "ISOLANTI",
+      "GAS",
+      "ALOGENI",
+      "ELEMENTI"
+    ],
+    "sourcePage": 94
+  },
+  {
+    "id": "p096_r1_c1",
+    "word": "ALOGENI",
+    "taboo": [
+      "17° GRUPPO",
+      "IODIO",
+      "BROMO",
+      "CLORO",
+      "FLUORO"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "id": "p096_r1_c2",
+    "word": "GAS NOBILI",
+    "taboo": [
+      "18° GRUPPO",
+      "ELIO",
+      "INERTI",
+      "NEON",
+      "ARGON"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "id": "p096_r1_c3",
+    "word": "ELETTRO- NEGATIVITÀ",
+    "taboo": [
+      "ATTRAZIONE",
+      "ELEMENTO",
+      "FLUORO",
+      "POLARE",
+      "LEGAME"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "id": "p096_r2_c1",
+    "word": "RAGGIO ATOMICO",
+    "taboo": [
+      "PICOMETRO",
+      "NUCLEO",
+      "LEGAME",
+      "MOLECOLA",
+      "ELEMENTI"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "id": "p096_r2_c2",
+    "word": "DENSITÀ",
+    "taboo": [
+      "MASSA",
+      "VOLUME",
+      "CONCENTRAZIONE",
+      "PESO",
+      "MISURA"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "id": "p096_r2_c3",
+    "word": "ELEMENTO",
+    "taboo": [
+      "PURO",
+      "MATERIA",
+      "ATOMO",
+      "UGUALE",
+      "TAVOLA PERIODICA"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "id": "p096_r3_c1",
+    "word": "COMPOSTO",
+    "taboo": [
+      "MOLECOLA",
+      "ELEMENTI",
+      "LEGAME",
+      "MISCUGLIO",
+      "REAZIONE"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "id": "p096_r3_c2",
+    "word": "IONE",
+    "taboo": [
+      "CARICA",
+      "ANIONE",
+      "CATIONE",
+      "LEGAME",
+      "ELETTRONE"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "id": "p096_r3_c3",
+    "word": "CATIONE",
+    "taboo": [
+      "IONE",
+      "POSITIVO",
+      "ELETTRONE",
+      "PERDERE",
+      "LEGAME"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "id": "p096_r4_c1",
+    "word": "ANIONE",
+    "taboo": [
+      "IONE",
+      "NEGATIVO",
+      "ELETTRONE",
+      "ACQUISTARE",
+      "LEGAME"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "id": "p096_r4_c2",
+    "word": "NUCLEO",
+    "taboo": [
+      "ATOMO",
+      "PROTONE",
+      "NEUTRONE",
+      "ELETTRONE",
+      "ORBITALI"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "id": "p096_r4_c3",
+    "word": "LEGAME COVALENTE",
+    "taboo": [
+      "REAZIONE",
+      "OMOPOLARE",
+      "ETEROPOLARE",
+      "DATIVO",
+      "MOLECOLA"
+    ],
+    "sourcePage": 96
+  },
+  {
+    "id": "p098_r1_c1",
+    "word": "LEGAME IONICO",
+    "taboo": [
+      "CATIONE",
+      "ANIONE",
+      "MOLECOLA",
+      "ATTRAZIONE",
+      "CARICA"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "id": "p098_r1_c2",
+    "word": "LEGAME METALLICO",
+    "taboo": [
+      "ELETTRONI",
+      "CONDIVISIONE",
+      "ELETTRICITÀ",
+      "ATTRAZIONE",
+      "CONDUTTORI"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "id": "p098_r1_c3",
+    "word": "OTTETTO",
+    "taboo": [
+      "REGOLA",
+      "ELETTRONI",
+      "ORBITALE",
+      "LEGAME",
+      "COMPLETARE"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "id": "p098_r2_c1",
+    "word": "POLARE",
+    "taboo": [
+      "DIPOLO",
+      "ELETTRONI",
+      "ELETTRONEGATIVITÀ",
+      "CARICA",
+      "MOLECOLA"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "id": "p098_r2_c2",
+    "word": "CARICA ELETTRICA",
+    "taboo": [
+      "POSITIVA",
+      "NEGATIVA",
+      "IONE",
+      "DIPOLO",
+      "ATTRAZIONE"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "id": "p098_r2_c3",
+    "word": "REPULSIONE",
+    "taboo": [
+      "CARICHE",
+      "ELETTRONI",
+      "PROTONI",
+      "UGUALI",
+      "ATTRAZIONE"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "id": "p098_r3_c1",
+    "word": "ATTRAZIONE",
+    "taboo": [
+      "REPULSIONE",
+      "CARICHE",
+      "ELETTRONI",
+      "PROTONI",
+      "OPPOSTE"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "id": "p098_r3_c2",
+    "word": "MISCUGLIO",
+    "taboo": [
+      "COMPOSTO",
+      "OMOGENEO",
+      "ETEROGENEO",
+      "EMULSIONE",
+      "SOLUZIONE"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "id": "p098_r3_c3",
+    "word": "SOLUZIONE",
+    "taboo": [
+      "SOLUTO",
+      "SOLVENTE",
+      "MISCUGLIO",
+      "OMOGENEO",
+      "ACQUA"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "id": "p098_r4_c1",
+    "word": "SOLUTO",
+    "taboo": [
+      "SOLUZIONE",
+      "SOLVENTE",
+      "ACQUA",
+      "CONCENTRAZIONE",
+      "DISSOCIAZIONE"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "id": "p098_r4_c2",
+    "word": "SOLVENTE",
+    "taboo": [
+      "SOLUZIONE",
+      "SOLUTO",
+      "ACQUA",
+      "CONCENTRAZIONE",
+      "SCIOGLIERE"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "id": "p098_r4_c3",
+    "word": "MATERIA",
+    "taboo": [
+      "ATOMI",
+      "MOLECOLE",
+      "OSCURA",
+      "UNIVERSO",
+      "SOSTANZA"
+    ],
+    "sourcePage": 98
+  },
+  {
+    "id": "p100_r1_c1",
+    "word": "SATURA",
+    "taboo": [
+      "PIENA",
+      "CONCETRAZIONE",
+      "PRECIPITAZIONE",
+      "SOLUZIONE",
+      "SOLUTO"
+    ],
+    "sourcePage": 100
+  },
+  {
+    "id": "p100_r1_c2",
+    "word": "KELVIN",
+    "taboo": [
+      "MISURA",
+      "TEMPERATURA",
+      "-273,15°C",
+      "CELSIUS",
+      "ZERO ASSOLUTO"
+    ],
+    "sourcePage": 100
+  },
+  {
+    "id": "p100_r1_c3",
+    "word": "CELSIUS",
+    "taboo": [
+      "MISURA",
+      "GRADI",
+      "CENTIGRADI",
+      "TEMPERATURA",
+      "KELVIN"
+    ],
+    "sourcePage": 100
+  },
+  {
+    "id": "p100_r2_c1",
+    "word": "FAHRENHEIT",
+    "taboo": [
+      "MISURA",
+      "GRADI",
+      "TEMPERATURA",
+      "KELVIN",
+      "CELSIUS"
+    ],
+    "sourcePage": 100
+  },
+  {
+    "id": "p100_r2_c2",
+    "word": "MOLE",
+    "taboo": [
+      "NUMERO",
+      "MASSA",
+      "AVOGADRO",
+      "MISURA",
+      "ATOMI"
+    ],
+    "sourcePage": 100
+  },
+  {
+    "id": "p100_r2_c3",
+    "word": "DISSOCIAZIONE",
+    "taboo": [
+      "IONICA",
+      "SEPARAZIONE",
+      "CARICHE",
+      "SOLUZIONE",
+      "MOLECOLA"
+    ],
+    "sourcePage": 100
+  },
+  {
+    "id": "p100_r3_c1",
+    "word": "SINTESI",
+    "taboo": [
+      "REAZIONE",
+      "CHIMICA",
+      "COSTRUZIONE",
+      "PROTEINE",
+      "COMPOSTI"
+    ],
+    "sourcePage": 100
+  },
+  {
+    "id": "p100_r3_c2",
+    "word": "ANALIZZARE",
+    "taboo": [
+      "ESAMINARE",
+      "LABORATORIO",
+      "DATI",
+      "GRAFICI",
+      "STUDIARE"
+    ],
+    "sourcePage": 100
+  },
+  {
+    "id": "p100_r3_c3",
+    "word": "REAGENTE",
+    "taboo": [
+      "CHIMICO",
+      "PRODOTTO",
+      "REAZIONE",
+      "TRASFORMAZIONE",
+      "STATO"
+    ],
+    "sourcePage": 100
+  },
+  {
+    "id": "p100_r4_c1",
+    "word": "PRODOTTO",
+    "taboo": [
+      "CHIMICO",
+      "REAGENTE",
+      "REAZIONE",
+      "TRASFORMAZIONE",
+      "STATO"
+    ],
+    "sourcePage": 100
+  },
+  {
+    "id": "p100_r4_c2",
+    "word": "REAZIONE CHIMICA",
+    "taboo": [
+      "TRASFORMAZIONE",
+      "ENERGIA",
+      "PRODOTTI",
+      "REAGENTI",
+      "COMPOSTI"
+    ],
+    "sourcePage": 100
+  },
+  {
+    "id": "p100_r4_c3",
+    "word": "MODELLO",
+    "taboo": [
+      "GRAFICO",
+      "ESEMPIO",
+      "PARADIGMA",
+      "MATEMATICO",
+      "CAMPIONE"
+    ],
+    "sourcePage": 100
+  },
+  {
+    "id": "p102_r1_c1",
+    "word": "ESPERIMENTO",
+    "taboo": [
+      "LABORATORIO",
+      "SCIENZIATO",
+      "METODO",
+      "REAZIONE",
+      "TEST"
+    ],
+    "sourcePage": 102
+  },
+  {
+    "id": "p102_r1_c2",
+    "word": "LABORATORIO",
+    "taboo": [
+      "RICERCATORE",
+      "MICROSCOPIO",
+      "ESPERIMENTO",
+      "STRUMENTI",
+      "SICUREZZA"
+    ],
+    "sourcePage": 102
+  },
+  {
+    "id": "p102_r1_c3",
+    "word": "REATTIVITÀ",
+    "taboo": [
+      "REAGIRE",
+      "CHIMICA",
+      "ENERGIA",
+      "TRASFORMAZIONE",
+      "INSTABILITÀ"
+    ],
+    "sourcePage": 102
+  }
+]
